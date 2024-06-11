@@ -1,0 +1,121 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+def scrape_and_append(url, jornada, df):
+    # Obtener el contenido de la página
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    # Encontrar la tabla específica
+    table = soup.find('table', {'class': 'ctr-stadistics-header__table'})
+
+    # Crear listas vacías para almacenar los datos
+    positions = []
+    teams = []
+    jj = []
+    jg = []
+    je = []
+    jp = []
+    gf = []
+    gc = []
+    dg = []
+    pts = []
+
+    # Iterar sobre las filas de la tabla
+    for row in table.find_all('tr')[1:]:  # Saltar el encabezado de la tabla
+        cells = row.find_all('td')
+        positions.append(cells[0].text.strip())
+        teams.append(cells[1].text.strip())
+        jj.append(cells[2].text.strip())
+        jg.append(cells[3].text.strip())
+        je.append(cells[4].text.strip())
+        jp.append(cells[5].text.strip())
+        gf.append(cells[6].text.strip())
+        gc.append(cells[7].text.strip())
+        dg.append(cells[8].text.strip())
+        pts.append(int(cells[9].text.strip()))  # Convertir a entero
+
+    data = {
+        'Posición': positions,
+        'Equipo': teams,
+        'JJ': jj,
+        'JG': jg,
+        'JE': je,
+        'JP': jp,
+        'GF': gf,
+        'GC': gc,
+        'DG': dg,
+        'PTS': pts,
+        'Jornada': [jornada] * len(positions)
+    }
+
+    jornada_df = pd.DataFrame(data)
+    return df._append(jornada_df, ignore_index=True)
+
+# URLs de las jornadas
+urls = [
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/1', '1'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/2','2'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/3','3'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/4','4'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/5','5'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/6','6'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/7','7'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/8','8'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/9','9'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/10','10'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/11','11'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/12','12'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/13','13'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/14','14'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/15','15'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/16','16'),
+    ('https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/17','17'),
+]
+
+all_data = pd.DataFrame()
+for url, jornada in urls:
+    all_data = scrape_and_append(url, jornada, all_data)
+
+# Convertir la columna 'PTS' a entero
+all_data['PTS'] = all_data['PTS'].astype(int)
+
+# Calcular los puntos ganados por jornada
+all_data['PTS_Anterior'] = all_data.groupby('Equipo')['PTS'].shift(1, fill_value=0)
+all_data['PTS_Ganados'] = all_data['PTS'] - all_data['PTS_Anterior']
+all_data = all_data.drop(columns=['PTS_Anterior'])
+
+# Agregar la columna 'Id_Jornadas'
+all_data['Id_Jornadas'] = range(1, len(all_data) + 1)
+
+# Guardar el DataFrame en un archivo CSV
+all_data.to_csv('Jornadas_2023.csv', index=False)
+print("Se han guardado todas las jornadas en 'Jornadas_2023.csv'")
+
+# Crear el DataFrame 'PG_Jornada'
+pg_jornada_data = all_data[['Equipo', 'PTS_Ganados', 'Jornada']].copy()
+pg_jornada_data.rename(columns={'Equipo': 'Id_Equipo'}, inplace=True)
+pg_jornada_data['Id'] = range(201, 201 + len(pg_jornada_data))
+
+# Guardar el DataFrame 'PG_Jornada' en un archivo CSV
+pg_jornada_data.to_csv('PG_Jornada.csv', index=False)
+print("Se han guardado los puntos ganados por jornada en 'PG_Jornada.csv'")
+
+# Crear la tabla de progreso de puntos por jornada con información adicional
+progreso_data = all_data.groupby(['Equipo', 'Jornada']).agg({
+    'JJ': 'max',
+    'JG': 'max',
+    'JE': 'max',
+    'JP': 'max'
+}).reset_index()
+
+# Renombrar las columnas según lo solicitado
+progreso_data.columns = ['Equipo', 'Jornada', 'Juegos Jugados', 'Juegos Ganados', 'Juegos Empatados', 'Juegos Perdidos']
+
+# Agregar la columna 'Id' comenzando desde el 301
+progreso_data['Id'] = range(301, 301 + len(progreso_data))
+
+# Guardar la tabla de progreso de puntos por jornada en un archivo CSV
+progreso_data.to_csv('Progreso_porJornada.csv', index=False)
+print("Se ha guardado la tabla de progreso de puntos por jornada en 'Progreso_por_Jornada.csv'")
