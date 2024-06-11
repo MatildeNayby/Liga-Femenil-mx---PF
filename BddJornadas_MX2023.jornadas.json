@@ -1,0 +1,5202 @@
+[{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dcc"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "4",
+  "GC": "0",
+  "DG": "4",
+  "PTS": "3",
+  "Jornada": "1",
+  "Id_Jornadas": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dcd"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "5",
+  "GC": "2",
+  "DG": "3",
+  "PTS": "3",
+  "Jornada": "1",
+  "Id_Jornadas": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dce"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "3",
+  "GC": "1",
+  "DG": "2",
+  "PTS": "3",
+  "Jornada": "1",
+  "Id_Jornadas": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dcf"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "2",
+  "GC": "0",
+  "DG": "2",
+  "PTS": "3",
+  "Jornada": "1",
+  "Id_Jornadas": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd0"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "3",
+  "GC": "2",
+  "DG": "1",
+  "PTS": "3",
+  "Jornada": "1",
+  "Id_Jornadas": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd1"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd2"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd3"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd4"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd5"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd6"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "1",
+  "JP": "0",
+  "GF": "1",
+  "GC": "1",
+  "DG": "0",
+  "PTS": "1",
+  "Jornada": "1",
+  "Id_Jornadas": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd7"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "0",
+  "JG": "0",
+  "JE": "0",
+  "JP": "0",
+  "GF": "0",
+  "GC": "0",
+  "DG": "0",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd8"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "0",
+  "JG": "0",
+  "JE": "0",
+  "JP": "0",
+  "GF": "0",
+  "GC": "0",
+  "DG": "0",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dd9"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "2",
+  "GC": "3",
+  "DG": "-1",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dda"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "1",
+  "GC": "3",
+  "DG": "-2",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ddb"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "0",
+  "GC": "2",
+  "DG": "-2",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ddc"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "2",
+  "GC": "5",
+  "DG": "-3",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ddd"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "0",
+  "GC": "4",
+  "DG": "-4",
+  "PTS": "0",
+  "Jornada": "1",
+  "Id_Jornadas": "18"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dde"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "2",
+  "JG": "2",
+  "JE": "0",
+  "JP": "0",
+  "GF": "11",
+  "GC": "2",
+  "DG": "9",
+  "PTS": "6",
+  "Jornada": "2",
+  "Id_Jornadas": "19"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ddf"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "2",
+  "JG": "2",
+  "JE": "0",
+  "JP": "0",
+  "GF": "8",
+  "GC": "0",
+  "DG": "8",
+  "PTS": "6",
+  "Jornada": "2",
+  "Id_Jornadas": "20"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de0"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "2",
+  "JG": "2",
+  "JE": "0",
+  "JP": "0",
+  "GF": "5",
+  "GC": "2",
+  "DG": "3",
+  "PTS": "6",
+  "Jornada": "2",
+  "Id_Jornadas": "21"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de1"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "1",
+  "JP": "0",
+  "GF": "8",
+  "GC": "1",
+  "DG": "7",
+  "PTS": "4",
+  "Jornada": "2",
+  "Id_Jornadas": "22"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de2"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "1",
+  "JP": "0",
+  "GF": "4",
+  "GC": "1",
+  "DG": "3",
+  "PTS": "4",
+  "Jornada": "2",
+  "Id_Jornadas": "23"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de3"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "1",
+  "JP": "0",
+  "GF": "3",
+  "GC": "1",
+  "DG": "2",
+  "PTS": "4",
+  "Jornada": "2",
+  "Id_Jornadas": "24"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de4"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "1",
+  "JP": "0",
+  "GF": "3",
+  "GC": "2",
+  "DG": "1",
+  "PTS": "4",
+  "Jornada": "2",
+  "Id_Jornadas": "25"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de5"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "1",
+  "JG": "1",
+  "JE": "0",
+  "JP": "0",
+  "GF": "4",
+  "GC": "0",
+  "DG": "4",
+  "PTS": "3",
+  "Jornada": "2",
+  "Id_Jornadas": "26"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de6"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "0",
+  "JP": "1",
+  "GF": "6",
+  "GC": "6",
+  "DG": "0",
+  "PTS": "3",
+  "Jornada": "2",
+  "Id_Jornadas": "27"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de7"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "0",
+  "JP": "1",
+  "GF": "3",
+  "GC": "3",
+  "DG": "0",
+  "PTS": "3",
+  "Jornada": "2",
+  "Id_Jornadas": "28"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de8"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "2",
+  "JG": "1",
+  "JE": "0",
+  "JP": "1",
+  "GF": "2",
+  "GC": "7",
+  "DG": "-5",
+  "PTS": "3",
+  "Jornada": "2",
+  "Id_Jornadas": "29"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813de9"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "1",
+  "JP": "1",
+  "GF": "1",
+  "GC": "5",
+  "DG": "-4",
+  "PTS": "1",
+  "Jornada": "2",
+  "Id_Jornadas": "30"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dea"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "1",
+  "JP": "1",
+  "GF": "1",
+  "GC": "5",
+  "DG": "-4",
+  "PTS": "1",
+  "Jornada": "2",
+  "Id_Jornadas": "31"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813deb"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "1",
+  "JG": "0",
+  "JE": "0",
+  "JP": "1",
+  "GF": "1",
+  "GC": "4",
+  "DG": "-3",
+  "PTS": "0",
+  "Jornada": "2",
+  "Id_Jornadas": "32"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dec"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "0",
+  "JP": "2",
+  "GF": "1",
+  "GC": "4",
+  "DG": "-3",
+  "PTS": "0",
+  "Jornada": "2",
+  "Id_Jornadas": "33"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ded"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "0",
+  "JP": "2",
+  "GF": "2",
+  "GC": "6",
+  "DG": "-4",
+  "PTS": "0",
+  "Jornada": "2",
+  "Id_Jornadas": "34"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dee"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "0",
+  "JP": "2",
+  "GF": "0",
+  "GC": "6",
+  "DG": "-6",
+  "PTS": "0",
+  "Jornada": "2",
+  "Id_Jornadas": "35"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813def"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "2",
+  "JG": "0",
+  "JE": "0",
+  "JP": "2",
+  "GF": "1",
+  "GC": "9",
+  "DG": "-8",
+  "PTS": "0",
+  "Jornada": "2",
+  "Id_Jornadas": "36"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df0"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "3",
+  "JG": "3",
+  "JE": "0",
+  "JP": "0",
+  "GF": "14",
+  "GC": "0",
+  "DG": "14",
+  "PTS": "9",
+  "Jornada": "3",
+  "Id_Jornadas": "37"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df1"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "3",
+  "JG": "3",
+  "JE": "0",
+  "JP": "0",
+  "GF": "16",
+  "GC": "3",
+  "DG": "13",
+  "PTS": "9",
+  "Jornada": "3",
+  "Id_Jornadas": "38"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df2"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "3",
+  "JG": "3",
+  "JE": "0",
+  "JP": "0",
+  "GF": "7",
+  "GC": "3",
+  "DG": "4",
+  "PTS": "9",
+  "Jornada": "3",
+  "Id_Jornadas": "39"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df3"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "3",
+  "JG": "2",
+  "JE": "1",
+  "JP": "0",
+  "GF": "11",
+  "GC": "1",
+  "DG": "10",
+  "PTS": "7",
+  "Jornada": "3",
+  "Id_Jornadas": "40"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df4"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "3",
+  "JG": "2",
+  "JE": "1",
+  "JP": "0",
+  "GF": "6",
+  "GC": "1",
+  "DG": "5",
+  "PTS": "7",
+  "Jornada": "3",
+  "Id_Jornadas": "41"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df5"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "3",
+  "JG": "2",
+  "JE": "1",
+  "JP": "0",
+  "GF": "6",
+  "GC": "2",
+  "DG": "4",
+  "PTS": "7",
+  "Jornada": "3",
+  "Id_Jornadas": "42"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df6"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "3",
+  "JG": "2",
+  "JE": "0",
+  "JP": "1",
+  "GF": "6",
+  "GC": "2",
+  "DG": "4",
+  "PTS": "6",
+  "Jornada": "3",
+  "Id_Jornadas": "43"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df7"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "3",
+  "JG": "2",
+  "JE": "0",
+  "JP": "1",
+  "GF": "4",
+  "GC": "7",
+  "DG": "-3",
+  "PTS": "6",
+  "Jornada": "3",
+  "Id_Jornadas": "44"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df8"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "3",
+  "JG": "1",
+  "JE": "1",
+  "JP": "1",
+  "GF": "4",
+  "GC": "7",
+  "DG": "-3",
+  "PTS": "4",
+  "Jornada": "3",
+  "Id_Jornadas": "45"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813df9"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "3",
+  "JG": "1",
+  "JE": "1",
+  "JP": "1",
+  "GF": "2",
+  "GC": "5",
+  "DG": "-3",
+  "PTS": "4",
+  "Jornada": "3",
+  "Id_Jornadas": "46"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dfa"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "3",
+  "JG": "1",
+  "JE": "0",
+  "JP": "2",
+  "GF": "7",
+  "GC": "8",
+  "DG": "-1",
+  "PTS": "3",
+  "Jornada": "3",
+  "Id_Jornadas": "47"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dfb"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "3",
+  "JG": "1",
+  "JE": "0",
+  "JP": "2",
+  "GF": "4",
+  "GC": "5",
+  "DG": "-1",
+  "PTS": "3",
+  "Jornada": "3",
+  "Id_Jornadas": "48"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dfc"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "3",
+  "JG": "1",
+  "JE": "0",
+  "JP": "2",
+  "GF": "4",
+  "GC": "8",
+  "DG": "-4",
+  "PTS": "3",
+  "Jornada": "3",
+  "Id_Jornadas": "49"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dfd"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "3",
+  "JG": "0",
+  "JE": "1",
+  "JP": "2",
+  "GF": "3",
+  "GC": "8",
+  "DG": "-5",
+  "PTS": "1",
+  "Jornada": "3",
+  "Id_Jornadas": "50"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dfe"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "3",
+  "JG": "0",
+  "JE": "0",
+  "JP": "3",
+  "GF": "1",
+  "GC": "5",
+  "DG": "-4",
+  "PTS": "0",
+  "Jornada": "3",
+  "Id_Jornadas": "51"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813dff"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "3",
+  "JG": "0",
+  "JE": "0",
+  "JP": "3",
+  "GF": "0",
+  "GC": "9",
+  "DG": "-9",
+  "PTS": "0",
+  "Jornada": "3",
+  "Id_Jornadas": "52"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e00"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "3",
+  "JG": "0",
+  "JE": "0",
+  "JP": "3",
+  "GF": "2",
+  "GC": "12",
+  "DG": "-10",
+  "PTS": "0",
+  "Jornada": "3",
+  "Id_Jornadas": "53"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e01"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "3",
+  "JG": "0",
+  "JE": "0",
+  "JP": "3",
+  "GF": "1",
+  "GC": "12",
+  "DG": "-11",
+  "PTS": "0",
+  "Jornada": "3",
+  "Id_Jornadas": "54"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e02"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "4",
+  "JG": "4",
+  "JE": "0",
+  "JP": "0",
+  "GF": "20",
+  "GC": "4",
+  "DG": "16",
+  "PTS": "12",
+  "Jornada": "4",
+  "Id_Jornadas": "55"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e03"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "4",
+  "JG": "3",
+  "JE": "1",
+  "JP": "0",
+  "GF": "16",
+  "GC": "2",
+  "DG": "14",
+  "PTS": "10",
+  "Jornada": "4",
+  "Id_Jornadas": "56"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e04"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "4",
+  "JG": "3",
+  "JE": "1",
+  "JP": "0",
+  "GF": "13",
+  "GC": "1",
+  "DG": "12",
+  "PTS": "10",
+  "Jornada": "4",
+  "Id_Jornadas": "57"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e05"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "4",
+  "JG": "3",
+  "JE": "0",
+  "JP": "1",
+  "GF": "7",
+  "GC": "4",
+  "DG": "3",
+  "PTS": "9",
+  "Jornada": "4",
+  "Id_Jornadas": "58"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e06"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "4",
+  "JG": "3",
+  "JE": "0",
+  "JP": "1",
+  "GF": "5",
+  "GC": "7",
+  "DG": "-2",
+  "PTS": "9",
+  "Jornada": "4",
+  "Id_Jornadas": "59"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e07"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "2",
+  "JP": "0",
+  "GF": "8",
+  "GC": "3",
+  "DG": "5",
+  "PTS": "8",
+  "Jornada": "4",
+  "Id_Jornadas": "60"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e08"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "1",
+  "JP": "1",
+  "GF": "7",
+  "GC": "6",
+  "DG": "1",
+  "PTS": "7",
+  "Jornada": "4",
+  "Id_Jornadas": "61"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e09"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "1",
+  "JP": "1",
+  "GF": "6",
+  "GC": "7",
+  "DG": "-1",
+  "PTS": "7",
+  "Jornada": "4",
+  "Id_Jornadas": "62"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0a"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "0",
+  "JP": "2",
+  "GF": "6",
+  "GC": "4",
+  "DG": "2",
+  "PTS": "6",
+  "Jornada": "4",
+  "Id_Jornadas": "63"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0b"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "0",
+  "JP": "2",
+  "GF": "7",
+  "GC": "6",
+  "DG": "1",
+  "PTS": "6",
+  "Jornada": "4",
+  "Id_Jornadas": "64"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0c"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "4",
+  "JG": "2",
+  "JE": "0",
+  "JP": "2",
+  "GF": "8",
+  "GC": "8",
+  "DG": "0",
+  "PTS": "6",
+  "Jornada": "4",
+  "Id_Jornadas": "65"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0d"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "4",
+  "JG": "1",
+  "JE": "1",
+  "JP": "2",
+  "GF": "4",
+  "GC": "8",
+  "DG": "-4",
+  "PTS": "4",
+  "Jornada": "4",
+  "Id_Jornadas": "66"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0e"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "4",
+  "JG": "1",
+  "JE": "1",
+  "JP": "2",
+  "GF": "3",
+  "GC": "8",
+  "DG": "-5",
+  "PTS": "4",
+  "Jornada": "4",
+  "Id_Jornadas": "67"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e0f"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "4",
+  "JG": "1",
+  "JE": "0",
+  "JP": "3",
+  "GF": "3",
+  "GC": "6",
+  "DG": "-3",
+  "PTS": "3",
+  "Jornada": "4",
+  "Id_Jornadas": "68"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e10"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "4",
+  "JG": "1",
+  "JE": "0",
+  "JP": "3",
+  "GF": "4",
+  "GC": "10",
+  "DG": "-6",
+  "PTS": "3",
+  "Jornada": "4",
+  "Id_Jornadas": "69"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e11"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "4",
+  "JG": "0",
+  "JE": "0",
+  "JP": "4",
+  "GF": "1",
+  "GC": "11",
+  "DG": "-10",
+  "PTS": "0",
+  "Jornada": "4",
+  "Id_Jornadas": "70"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e12"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "4",
+  "JG": "0",
+  "JE": "0",
+  "JP": "4",
+  "GF": "2",
+  "GC": "13",
+  "DG": "-11",
+  "PTS": "0",
+  "Jornada": "4",
+  "Id_Jornadas": "71"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e13"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "4",
+  "JG": "0",
+  "JE": "0",
+  "JP": "4",
+  "GF": "1",
+  "GC": "13",
+  "DG": "-12",
+  "PTS": "0",
+  "Jornada": "4",
+  "Id_Jornadas": "72"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e14"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "5",
+  "JG": "5",
+  "JE": "0",
+  "JP": "0",
+  "GF": "25",
+  "GC": "5",
+  "DG": "20",
+  "PTS": "15",
+  "Jornada": "5",
+  "Id_Jornadas": "73"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e15"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "5",
+  "JG": "4",
+  "JE": "1",
+  "JP": "0",
+  "GF": "20",
+  "GC": "4",
+  "DG": "16",
+  "PTS": "13",
+  "Jornada": "5",
+  "Id_Jornadas": "74"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e16"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "5",
+  "JG": "4",
+  "JE": "1",
+  "JP": "0",
+  "GF": "16",
+  "GC": "1",
+  "DG": "15",
+  "PTS": "13",
+  "Jornada": "5",
+  "Id_Jornadas": "75"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e17"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "5",
+  "JG": "4",
+  "JE": "0",
+  "JP": "1",
+  "GF": "8",
+  "GC": "9",
+  "DG": "-1",
+  "PTS": "12",
+  "Jornada": "5",
+  "Id_Jornadas": "76"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e18"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "5",
+  "JG": "3",
+  "JE": "2",
+  "JP": "0",
+  "GF": "11",
+  "GC": "3",
+  "DG": "8",
+  "PTS": "11",
+  "Jornada": "5",
+  "Id_Jornadas": "77"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e19"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "5",
+  "JG": "3",
+  "JE": "0",
+  "JP": "2",
+  "GF": "9",
+  "GC": "5",
+  "DG": "4",
+  "PTS": "9",
+  "Jornada": "5",
+  "Id_Jornadas": "78"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1a"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "5",
+  "JG": "3",
+  "JE": "0",
+  "JP": "2",
+  "GF": "7",
+  "GC": "7",
+  "DG": "0",
+  "PTS": "9",
+  "Jornada": "5",
+  "Id_Jornadas": "79"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1b"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "5",
+  "JG": "2",
+  "JE": "2",
+  "JP": "1",
+  "GF": "8",
+  "GC": "7",
+  "DG": "1",
+  "PTS": "8",
+  "Jornada": "5",
+  "Id_Jornadas": "80"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1c"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "5",
+  "JG": "2",
+  "JE": "1",
+  "JP": "2",
+  "GF": "9",
+  "GC": "9",
+  "DG": "0",
+  "PTS": "7",
+  "Jornada": "5",
+  "Id_Jornadas": "81"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1d"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "5",
+  "JG": "2",
+  "JE": "1",
+  "JP": "2",
+  "GF": "8",
+  "GC": "10",
+  "DG": "-2",
+  "PTS": "7",
+  "Jornada": "5",
+  "Id_Jornadas": "82"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1e"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "5",
+  "JG": "2",
+  "JE": "1",
+  "JP": "2",
+  "GF": "7",
+  "GC": "9",
+  "DG": "-2",
+  "PTS": "7",
+  "Jornada": "5",
+  "Id_Jornadas": "83"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e1f"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "5",
+  "JG": "2",
+  "JE": "0",
+  "JP": "3",
+  "GF": "9",
+  "GC": "10",
+  "DG": "-1",
+  "PTS": "6",
+  "Jornada": "5",
+  "Id_Jornadas": "84"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e20"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "5",
+  "JG": "1",
+  "JE": "2",
+  "JP": "2",
+  "GF": "5",
+  "GC": "9",
+  "DG": "-4",
+  "PTS": "5",
+  "Jornada": "5",
+  "Id_Jornadas": "85"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e21"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "5",
+  "JG": "1",
+  "JE": "0",
+  "JP": "4",
+  "GF": "3",
+  "GC": "9",
+  "DG": "-6",
+  "PTS": "3",
+  "Jornada": "5",
+  "Id_Jornadas": "86"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e22"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "5",
+  "JG": "1",
+  "JE": "0",
+  "JP": "4",
+  "GF": "5",
+  "GC": "15",
+  "DG": "-10",
+  "PTS": "3",
+  "Jornada": "5",
+  "Id_Jornadas": "87"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e23"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "5",
+  "JG": "0",
+  "JE": "1",
+  "JP": "4",
+  "GF": "2",
+  "GC": "12",
+  "DG": "-10",
+  "PTS": "1",
+  "Jornada": "5",
+  "Id_Jornadas": "88"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e24"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "5",
+  "JG": "0",
+  "JE": "0",
+  "JP": "5",
+  "GF": "3",
+  "GC": "17",
+  "DG": "-14",
+  "PTS": "0",
+  "Jornada": "5",
+  "Id_Jornadas": "89"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e25"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "5",
+  "JG": "0",
+  "JE": "0",
+  "JP": "5",
+  "GF": "2",
+  "GC": "16",
+  "DG": "-14",
+  "PTS": "0",
+  "Jornada": "5",
+  "Id_Jornadas": "90"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e26"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "6",
+  "JG": "6",
+  "JE": "0",
+  "JP": "0",
+  "GF": "29",
+  "GC": "5",
+  "DG": "24",
+  "PTS": "18",
+  "Jornada": "6",
+  "Id_Jornadas": "91"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e27"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "6",
+  "JG": "5",
+  "JE": "1",
+  "JP": "0",
+  "GF": "23",
+  "GC": "5",
+  "DG": "18",
+  "PTS": "16",
+  "Jornada": "6",
+  "Id_Jornadas": "92"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e28"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "6",
+  "JG": "4",
+  "JE": "2",
+  "JP": "0",
+  "GF": "12",
+  "GC": "3",
+  "DG": "9",
+  "PTS": "14",
+  "Jornada": "6",
+  "Id_Jornadas": "93"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e29"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "6",
+  "JG": "4",
+  "JE": "1",
+  "JP": "1",
+  "GF": "16",
+  "GC": "2",
+  "DG": "14",
+  "PTS": "13",
+  "Jornada": "6",
+  "Id_Jornadas": "94"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2a"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "6",
+  "JG": "4",
+  "JE": "0",
+  "JP": "2",
+  "GF": "12",
+  "GC": "5",
+  "DG": "7",
+  "PTS": "12",
+  "Jornada": "6",
+  "Id_Jornadas": "95"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2b"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "5",
+  "JG": "4",
+  "JE": "0",
+  "JP": "1",
+  "GF": "8",
+  "GC": "9",
+  "DG": "-1",
+  "PTS": "12",
+  "Jornada": "6",
+  "Id_Jornadas": "96"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2c"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "6",
+  "JG": "3",
+  "JE": "1",
+  "JP": "2",
+  "GF": "9",
+  "GC": "9",
+  "DG": "0",
+  "PTS": "10",
+  "Jornada": "6",
+  "Id_Jornadas": "97"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2d"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "6",
+  "JG": "3",
+  "JE": "1",
+  "JP": "2",
+  "GF": "11",
+  "GC": "12",
+  "DG": "-1",
+  "PTS": "10",
+  "Jornada": "6",
+  "Id_Jornadas": "98"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2e"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "6",
+  "JG": "3",
+  "JE": "0",
+  "JP": "3",
+  "GF": "13",
+  "GC": "13",
+  "DG": "0",
+  "PTS": "9",
+  "Jornada": "6",
+  "Id_Jornadas": "99"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e2f"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "6",
+  "JG": "3",
+  "JE": "0",
+  "JP": "3",
+  "GF": "7",
+  "GC": "11",
+  "DG": "-4",
+  "PTS": "9",
+  "Jornada": "6",
+  "Id_Jornadas": "100"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e30"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "6",
+  "JG": "2",
+  "JE": "2",
+  "JP": "2",
+  "GF": "9",
+  "GC": "10",
+  "DG": "-1",
+  "PTS": "8",
+  "Jornada": "6",
+  "Id_Jornadas": "101"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e31"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "6",
+  "JG": "2",
+  "JE": "1",
+  "JP": "3",
+  "GF": "11",
+  "GC": "12",
+  "DG": "-1",
+  "PTS": "7",
+  "Jornada": "6",
+  "Id_Jornadas": "102"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e32"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "6",
+  "JG": "2",
+  "JE": "0",
+  "JP": "4",
+  "GF": "5",
+  "GC": "9",
+  "DG": "-4",
+  "PTS": "6",
+  "Jornada": "6",
+  "Id_Jornadas": "103"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e33"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "5",
+  "JG": "1",
+  "JE": "2",
+  "JP": "2",
+  "GF": "5",
+  "GC": "9",
+  "DG": "-4",
+  "PTS": "5",
+  "Jornada": "6",
+  "Id_Jornadas": "104"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e34"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "6",
+  "JG": "1",
+  "JE": "0",
+  "JP": "5",
+  "GF": "8",
+  "GC": "19",
+  "DG": "-11",
+  "PTS": "3",
+  "Jornada": "6",
+  "Id_Jornadas": "105"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e35"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "6",
+  "JG": "0",
+  "JE": "1",
+  "JP": "5",
+  "GF": "2",
+  "GC": "15",
+  "DG": "-13",
+  "PTS": "1",
+  "Jornada": "6",
+  "Id_Jornadas": "106"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e36"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "6",
+  "JG": "0",
+  "JE": "0",
+  "JP": "6",
+  "GF": "3",
+  "GC": "19",
+  "DG": "-16",
+  "PTS": "0",
+  "Jornada": "6",
+  "Id_Jornadas": "107"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e37"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "6",
+  "JG": "0",
+  "JE": "0",
+  "JP": "6",
+  "GF": "2",
+  "GC": "18",
+  "DG": "-16",
+  "PTS": "0",
+  "Jornada": "6",
+  "Id_Jornadas": "108"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e38"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "7",
+  "JG": "7",
+  "JE": "0",
+  "JP": "0",
+  "GF": "32",
+  "GC": "7",
+  "DG": "25",
+  "PTS": "21",
+  "Jornada": "7",
+  "Id_Jornadas": "109"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e39"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "7",
+  "JG": "6",
+  "JE": "1",
+  "JP": "0",
+  "GF": "30",
+  "GC": "5",
+  "DG": "25",
+  "PTS": "19",
+  "Jornada": "7",
+  "Id_Jornadas": "110"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3a"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "7",
+  "JG": "5",
+  "JE": "2",
+  "JP": "0",
+  "GF": "17",
+  "GC": "4",
+  "DG": "13",
+  "PTS": "17",
+  "Jornada": "7",
+  "Id_Jornadas": "111"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3b"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "7",
+  "JG": "5",
+  "JE": "0",
+  "JP": "2",
+  "GF": "14",
+  "GC": "5",
+  "DG": "9",
+  "PTS": "15",
+  "Jornada": "7",
+  "Id_Jornadas": "112"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3c"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "7",
+  "JG": "4",
+  "JE": "2",
+  "JP": "1",
+  "GF": "18",
+  "GC": "4",
+  "DG": "14",
+  "PTS": "14",
+  "Jornada": "7",
+  "Id_Jornadas": "113"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3d"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "7",
+  "JG": "4",
+  "JE": "1",
+  "JP": "2",
+  "GF": "14",
+  "GC": "12",
+  "DG": "2",
+  "PTS": "13",
+  "Jornada": "7",
+  "Id_Jornadas": "114"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3e"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "6",
+  "JG": "4",
+  "JE": "0",
+  "JP": "2",
+  "GF": "10",
+  "GC": "12",
+  "DG": "-2",
+  "PTS": "12",
+  "Jornada": "7",
+  "Id_Jornadas": "115"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e3f"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "7",
+  "JG": "3",
+  "JE": "1",
+  "JP": "3",
+  "GF": "15",
+  "GC": "13",
+  "DG": "2",
+  "PTS": "10",
+  "Jornada": "7",
+  "Id_Jornadas": "116"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e40"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "6",
+  "JG": "3",
+  "JE": "1",
+  "JP": "2",
+  "GF": "9",
+  "GC": "9",
+  "DG": "0",
+  "PTS": "10",
+  "Jornada": "7",
+  "Id_Jornadas": "117"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e41"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "7",
+  "JG": "3",
+  "JE": "0",
+  "JP": "4",
+  "GF": "8",
+  "GC": "16",
+  "DG": "-8",
+  "PTS": "9",
+  "Jornada": "7",
+  "Id_Jornadas": "118"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e42"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "7",
+  "JG": "2",
+  "JE": "2",
+  "JP": "3",
+  "GF": "9",
+  "GC": "13",
+  "DG": "-4",
+  "PTS": "8",
+  "Jornada": "7",
+  "Id_Jornadas": "119"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e43"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "6",
+  "JG": "2",
+  "JE": "0",
+  "JP": "4",
+  "GF": "12",
+  "GC": "14",
+  "DG": "-2",
+  "PTS": "6",
+  "Jornada": "7",
+  "Id_Jornadas": "120"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e44"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "6",
+  "JG": "1",
+  "JE": "3",
+  "JP": "2",
+  "GF": "7",
+  "GC": "11",
+  "DG": "-4",
+  "PTS": "6",
+  "Jornada": "7",
+  "Id_Jornadas": "121"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e45"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "7",
+  "JG": "2",
+  "JE": "0",
+  "JP": "5",
+  "GF": "5",
+  "GC": "11",
+  "DG": "-6",
+  "PTS": "6",
+  "Jornada": "7",
+  "Id_Jornadas": "122"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e46"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "7",
+  "JG": "1",
+  "JE": "1",
+  "JP": "5",
+  "GF": "6",
+  "GC": "18",
+  "DG": "-12",
+  "PTS": "4",
+  "Jornada": "7",
+  "Id_Jornadas": "123"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e47"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "5",
+  "JG": "1",
+  "JE": "0",
+  "JP": "4",
+  "GF": "5",
+  "GC": "15",
+  "DG": "-10",
+  "PTS": "3",
+  "Jornada": "7",
+  "Id_Jornadas": "124"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e48"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "7",
+  "JG": "0",
+  "JE": "0",
+  "JP": "7",
+  "GF": "4",
+  "GC": "23",
+  "DG": "-19",
+  "PTS": "0",
+  "Jornada": "7",
+  "Id_Jornadas": "125"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e49"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "7",
+  "JG": "0",
+  "JE": "0",
+  "JP": "7",
+  "GF": "2",
+  "GC": "25",
+  "DG": "-23",
+  "PTS": "0",
+  "Jornada": "7",
+  "Id_Jornadas": "126"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4a"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "8",
+  "JG": "8",
+  "JE": "0",
+  "JP": "0",
+  "GF": "35",
+  "GC": "8",
+  "DG": "27",
+  "PTS": "24",
+  "Jornada": "8",
+  "Id_Jornadas": "127"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4b"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "8",
+  "JG": "7",
+  "JE": "1",
+  "JP": "0",
+  "GF": "32",
+  "GC": "5",
+  "DG": "27",
+  "PTS": "22",
+  "Jornada": "8",
+  "Id_Jornadas": "128"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4c"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "8",
+  "JG": "5",
+  "JE": "3",
+  "JP": "0",
+  "GF": "18",
+  "GC": "5",
+  "DG": "13",
+  "PTS": "18",
+  "Jornada": "8",
+  "Id_Jornadas": "129"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4d"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "8",
+  "JG": "5",
+  "JE": "1",
+  "JP": "2",
+  "GF": "17",
+  "GC": "12",
+  "DG": "5",
+  "PTS": "16",
+  "Jornada": "8",
+  "Id_Jornadas": "130"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4e"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "8",
+  "JG": "4",
+  "JE": "3",
+  "JP": "1",
+  "GF": "18",
+  "GC": "4",
+  "DG": "14",
+  "PTS": "15",
+  "Jornada": "8",
+  "Id_Jornadas": "131"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e4f"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "8",
+  "JG": "5",
+  "JE": "0",
+  "JP": "3",
+  "GF": "15",
+  "GC": "7",
+  "DG": "8",
+  "PTS": "15",
+  "Jornada": "8",
+  "Id_Jornadas": "132"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e50"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "7",
+  "JG": "5",
+  "JE": "0",
+  "JP": "2",
+  "GF": "11",
+  "GC": "12",
+  "DG": "-1",
+  "PTS": "15",
+  "Jornada": "8",
+  "Id_Jornadas": "133"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e51"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "8",
+  "JG": "4",
+  "JE": "0",
+  "JP": "4",
+  "GF": "10",
+  "GC": "17",
+  "DG": "-7",
+  "PTS": "12",
+  "Jornada": "8",
+  "Id_Jornadas": "134"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e52"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "8",
+  "JG": "3",
+  "JE": "2",
+  "JP": "3",
+  "GF": "15",
+  "GC": "13",
+  "DG": "2",
+  "PTS": "11",
+  "Jornada": "8",
+  "Id_Jornadas": "135"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e53"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "7",
+  "JG": "3",
+  "JE": "2",
+  "JP": "2",
+  "GF": "10",
+  "GC": "10",
+  "DG": "0",
+  "PTS": "11",
+  "Jornada": "8",
+  "Id_Jornadas": "136"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e54"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "8",
+  "JG": "3",
+  "JE": "2",
+  "JP": "3",
+  "GF": "11",
+  "GC": "13",
+  "DG": "-2",
+  "PTS": "11",
+  "Jornada": "8",
+  "Id_Jornadas": "137"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e55"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "8",
+  "JG": "3",
+  "JE": "1",
+  "JP": "4",
+  "GF": "17",
+  "GC": "18",
+  "DG": "-1",
+  "PTS": "10",
+  "Jornada": "8",
+  "Id_Jornadas": "138"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e56"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "7",
+  "JG": "1",
+  "JE": "4",
+  "JP": "2",
+  "GF": "8",
+  "GC": "12",
+  "DG": "-4",
+  "PTS": "7",
+  "Jornada": "8",
+  "Id_Jornadas": "139"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e57"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "8",
+  "JG": "2",
+  "JE": "0",
+  "JP": "6",
+  "GF": "5",
+  "GC": "13",
+  "DG": "-8",
+  "PTS": "6",
+  "Jornada": "8",
+  "Id_Jornadas": "140"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e58"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "8",
+  "JG": "1",
+  "JE": "1",
+  "JP": "6",
+  "GF": "6",
+  "GC": "19",
+  "DG": "-13",
+  "PTS": "4",
+  "Jornada": "8",
+  "Id_Jornadas": "141"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e59"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "7",
+  "JG": "1",
+  "JE": "0",
+  "JP": "6",
+  "GF": "8",
+  "GC": "21",
+  "DG": "-13",
+  "PTS": "3",
+  "Jornada": "8",
+  "Id_Jornadas": "142"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5a"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "8",
+  "JG": "0",
+  "JE": "0",
+  "JP": "8",
+  "GF": "5",
+  "GC": "26",
+  "DG": "-21",
+  "PTS": "0",
+  "Jornada": "8",
+  "Id_Jornadas": "143"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5b"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "8",
+  "JG": "0",
+  "JE": "0",
+  "JP": "8",
+  "GF": "2",
+  "GC": "28",
+  "DG": "-26",
+  "PTS": "0",
+  "Jornada": "8",
+  "Id_Jornadas": "144"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5c"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "9",
+  "JG": "8",
+  "JE": "1",
+  "JP": "0",
+  "GF": "35",
+  "GC": "6",
+  "DG": "29",
+  "PTS": "25",
+  "Jornada": "9",
+  "Id_Jornadas": "145"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5d"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "9",
+  "JG": "8",
+  "JE": "0",
+  "JP": "1",
+  "GF": "36",
+  "GC": "11",
+  "DG": "25",
+  "PTS": "24",
+  "Jornada": "9",
+  "Id_Jornadas": "146"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5e"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "9",
+  "JG": "6",
+  "JE": "3",
+  "JP": "0",
+  "GF": "20",
+  "GC": "5",
+  "DG": "15",
+  "PTS": "21",
+  "Jornada": "9",
+  "Id_Jornadas": "147"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e5f"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "9",
+  "JG": "5",
+  "JE": "2",
+  "JP": "2",
+  "GF": "18",
+  "GC": "13",
+  "DG": "5",
+  "PTS": "17",
+  "Jornada": "9",
+  "Id_Jornadas": "148"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e60"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "4",
+  "JP": "1",
+  "GF": "19",
+  "GC": "5",
+  "DG": "14",
+  "PTS": "16",
+  "Jornada": "9",
+  "Id_Jornadas": "149"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e61"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "9",
+  "JG": "5",
+  "JE": "0",
+  "JP": "4",
+  "GF": "16",
+  "GC": "9",
+  "DG": "7",
+  "PTS": "15",
+  "Jornada": "9",
+  "Id_Jornadas": "150"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e62"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "8",
+  "JG": "5",
+  "JE": "0",
+  "JP": "3",
+  "GF": "12",
+  "GC": "14",
+  "DG": "-2",
+  "PTS": "15",
+  "Jornada": "9",
+  "Id_Jornadas": "151"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e63"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "2",
+  "JP": "3",
+  "GF": "17",
+  "GC": "14",
+  "DG": "3",
+  "PTS": "14",
+  "Jornada": "9",
+  "Id_Jornadas": "152"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e64"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "2",
+  "JP": "3",
+  "GF": "13",
+  "GC": "14",
+  "DG": "-1",
+  "PTS": "14",
+  "Jornada": "9",
+  "Id_Jornadas": "153"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e65"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "1",
+  "JP": "4",
+  "GF": "22",
+  "GC": "18",
+  "DG": "4",
+  "PTS": "13",
+  "Jornada": "9",
+  "Id_Jornadas": "154"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e66"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "1",
+  "JP": "4",
+  "GF": "11",
+  "GC": "18",
+  "DG": "-7",
+  "PTS": "13",
+  "Jornada": "9",
+  "Id_Jornadas": "155"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e67"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "9",
+  "JG": "3",
+  "JE": "3",
+  "JP": "3",
+  "GF": "13",
+  "GC": "14",
+  "DG": "-1",
+  "PTS": "12",
+  "Jornada": "9",
+  "Id_Jornadas": "156"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e68"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "8",
+  "JG": "1",
+  "JE": "4",
+  "JP": "3",
+  "GF": "8",
+  "GC": "14",
+  "DG": "-6",
+  "PTS": "7",
+  "Jornada": "9",
+  "Id_Jornadas": "157"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e69"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "9",
+  "JG": "2",
+  "JE": "1",
+  "JP": "6",
+  "GF": "6",
+  "GC": "14",
+  "DG": "-8",
+  "PTS": "7",
+  "Jornada": "9",
+  "Id_Jornadas": "158"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6a"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "9",
+  "JG": "2",
+  "JE": "1",
+  "JP": "6",
+  "GF": "10",
+  "GC": "22",
+  "DG": "-12",
+  "PTS": "7",
+  "Jornada": "9",
+  "Id_Jornadas": "159"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6b"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "9",
+  "JG": "1",
+  "JE": "2",
+  "JP": "6",
+  "GF": "8",
+  "GC": "21",
+  "DG": "-13",
+  "PTS": "5",
+  "Jornada": "9",
+  "Id_Jornadas": "160"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6c"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "9",
+  "JG": "0",
+  "JE": "1",
+  "JP": "8",
+  "GF": "2",
+  "GC": "28",
+  "DG": "-26",
+  "PTS": "1",
+  "Jornada": "9",
+  "Id_Jornadas": "161"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6d"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "9",
+  "JG": "0",
+  "JE": "0",
+  "JP": "9",
+  "GF": "5",
+  "GC": "31",
+  "DG": "-26",
+  "PTS": "0",
+  "Jornada": "9",
+  "Id_Jornadas": "162"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6e"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "10",
+  "JG": "9",
+  "JE": "1",
+  "JP": "0",
+  "GF": "38",
+  "GC": "7",
+  "DG": "31",
+  "PTS": "28",
+  "Jornada": "10",
+  "Id_Jornadas": "163"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e6f"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "10",
+  "JG": "9",
+  "JE": "0",
+  "JP": "1",
+  "GF": "40",
+  "GC": "12",
+  "DG": "28",
+  "PTS": "27",
+  "Jornada": "10",
+  "Id_Jornadas": "164"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e70"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "10",
+  "JG": "7",
+  "JE": "3",
+  "JP": "0",
+  "GF": "23",
+  "GC": "6",
+  "DG": "17",
+  "PTS": "24",
+  "Jornada": "10",
+  "Id_Jornadas": "165"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e71"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "10",
+  "JG": "6",
+  "JE": "2",
+  "JP": "2",
+  "GF": "20",
+  "GC": "13",
+  "DG": "7",
+  "PTS": "20",
+  "Jornada": "10",
+  "Id_Jornadas": "166"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e72"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "10",
+  "JG": "5",
+  "JE": "4",
+  "JP": "1",
+  "GF": "22",
+  "GC": "6",
+  "DG": "16",
+  "PTS": "19",
+  "Jornada": "10",
+  "Id_Jornadas": "167"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e73"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "10",
+  "JG": "5",
+  "JE": "1",
+  "JP": "4",
+  "GF": "24",
+  "GC": "19",
+  "DG": "5",
+  "PTS": "16",
+  "Jornada": "10",
+  "Id_Jornadas": "168"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e74"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "10",
+  "JG": "5",
+  "JE": "1",
+  "JP": "4",
+  "GF": "13",
+  "GC": "18",
+  "DG": "-5",
+  "PTS": "16",
+  "Jornada": "10",
+  "Id_Jornadas": "169"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e75"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "10",
+  "JG": "5",
+  "JE": "0",
+  "JP": "5",
+  "GF": "17",
+  "GC": "12",
+  "DG": "5",
+  "PTS": "15",
+  "Jornada": "10",
+  "Id_Jornadas": "170"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e76"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "9",
+  "JG": "5",
+  "JE": "0",
+  "JP": "4",
+  "GF": "13",
+  "GC": "17",
+  "DG": "-4",
+  "PTS": "15",
+  "Jornada": "10",
+  "Id_Jornadas": "171"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e77"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "10",
+  "JG": "4",
+  "JE": "2",
+  "JP": "4",
+  "GF": "18",
+  "GC": "16",
+  "DG": "2",
+  "PTS": "14",
+  "Jornada": "10",
+  "Id_Jornadas": "172"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e78"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "9",
+  "JG": "4",
+  "JE": "2",
+  "JP": "3",
+  "GF": "13",
+  "GC": "14",
+  "DG": "-1",
+  "PTS": "14",
+  "Jornada": "10",
+  "Id_Jornadas": "173"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e79"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "10",
+  "JG": "3",
+  "JE": "3",
+  "JP": "4",
+  "GF": "14",
+  "GC": "18",
+  "DG": "-4",
+  "PTS": "12",
+  "Jornada": "10",
+  "Id_Jornadas": "174"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7a"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "9",
+  "JG": "2",
+  "JE": "4",
+  "JP": "3",
+  "GF": "14",
+  "GC": "14",
+  "DG": "0",
+  "PTS": "10",
+  "Jornada": "10",
+  "Id_Jornadas": "175"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7b"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "10",
+  "JG": "2",
+  "JE": "1",
+  "JP": "7",
+  "GF": "10",
+  "GC": "24",
+  "DG": "-14",
+  "PTS": "7",
+  "Jornada": "10",
+  "Id_Jornadas": "176"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7c"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "10",
+  "JG": "2",
+  "JE": "1",
+  "JP": "7",
+  "GF": "6",
+  "GC": "20",
+  "DG": "-14",
+  "PTS": "7",
+  "Jornada": "10",
+  "Id_Jornadas": "177"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7d"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "9",
+  "JG": "1",
+  "JE": "2",
+  "JP": "6",
+  "GF": "8",
+  "GC": "21",
+  "DG": "-13",
+  "PTS": "5",
+  "Jornada": "10",
+  "Id_Jornadas": "178"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7e"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "10",
+  "JG": "0",
+  "JE": "1",
+  "JP": "9",
+  "GF": "3",
+  "GC": "31",
+  "DG": "-28",
+  "PTS": "1",
+  "Jornada": "10",
+  "Id_Jornadas": "179"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e7f"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "10",
+  "JG": "0",
+  "JE": "0",
+  "JP": "10",
+  "GF": "5",
+  "GC": "33",
+  "DG": "-28",
+  "PTS": "0",
+  "Jornada": "10",
+  "Id_Jornadas": "180"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e80"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "11",
+  "JG": "10",
+  "JE": "1",
+  "JP": "0",
+  "GF": "42",
+  "GC": "7",
+  "DG": "35",
+  "PTS": "31",
+  "Jornada": "11",
+  "Id_Jornadas": "181"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e81"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "11",
+  "JG": "10",
+  "JE": "0",
+  "JP": "1",
+  "GF": "42",
+  "GC": "13",
+  "DG": "29",
+  "PTS": "30",
+  "Jornada": "11",
+  "Id_Jornadas": "182"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e82"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "11",
+  "JG": "7",
+  "JE": "3",
+  "JP": "1",
+  "GF": "24",
+  "GC": "8",
+  "DG": "16",
+  "PTS": "24",
+  "Jornada": "11",
+  "Id_Jornadas": "183"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e83"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "11",
+  "JG": "6",
+  "JE": "3",
+  "JP": "2",
+  "GF": "21",
+  "GC": "14",
+  "DG": "7",
+  "PTS": "21",
+  "Jornada": "11",
+  "Id_Jornadas": "184"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e84"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "11",
+  "JG": "5",
+  "JE": "5",
+  "JP": "1",
+  "GF": "24",
+  "GC": "8",
+  "DG": "16",
+  "PTS": "20",
+  "Jornada": "11",
+  "Id_Jornadas": "185"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e85"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "10",
+  "JG": "6",
+  "JE": "0",
+  "JP": "4",
+  "GF": "16",
+  "GC": "17",
+  "DG": "-1",
+  "PTS": "18",
+  "Jornada": "11",
+  "Id_Jornadas": "186"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e86"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "11",
+  "JG": "5",
+  "JE": "2",
+  "JP": "4",
+  "GF": "23",
+  "GC": "17",
+  "DG": "6",
+  "PTS": "17",
+  "Jornada": "11",
+  "Id_Jornadas": "187"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e87"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "11",
+  "JG": "5",
+  "JE": "2",
+  "JP": "4",
+  "GF": "26",
+  "GC": "21",
+  "DG": "5",
+  "PTS": "17",
+  "Jornada": "11",
+  "Id_Jornadas": "188"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e88"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "11",
+  "JG": "5",
+  "JE": "1",
+  "JP": "5",
+  "GF": "13",
+  "GC": "20",
+  "DG": "-7",
+  "PTS": "16",
+  "Jornada": "11",
+  "Id_Jornadas": "189"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e89"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "11",
+  "JG": "5",
+  "JE": "0",
+  "JP": "6",
+  "GF": "17",
+  "GC": "16",
+  "DG": "1",
+  "PTS": "15",
+  "Jornada": "11",
+  "Id_Jornadas": "190"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8a"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "10",
+  "JG": "4",
+  "JE": "2",
+  "JP": "4",
+  "GF": "14",
+  "GC": "19",
+  "DG": "-5",
+  "PTS": "14",
+  "Jornada": "11",
+  "Id_Jornadas": "191"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8b"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "10",
+  "JG": "3",
+  "JE": "4",
+  "JP": "3",
+  "GF": "15",
+  "GC": "14",
+  "DG": "1",
+  "PTS": "13",
+  "Jornada": "11",
+  "Id_Jornadas": "192"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8c"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "11",
+  "JG": "3",
+  "JE": "3",
+  "JP": "5",
+  "GF": "14",
+  "GC": "21",
+  "DG": "-7",
+  "PTS": "12",
+  "Jornada": "11",
+  "Id_Jornadas": "193"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8d"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "10",
+  "JG": "2",
+  "JE": "2",
+  "JP": "6",
+  "GF": "10",
+  "GC": "21",
+  "DG": "-11",
+  "PTS": "8",
+  "Jornada": "11",
+  "Id_Jornadas": "194"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8e"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "11",
+  "JG": "2",
+  "JE": "2",
+  "JP": "7",
+  "GF": "11",
+  "GC": "25",
+  "DG": "-14",
+  "PTS": "8",
+  "Jornada": "11",
+  "Id_Jornadas": "195"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e8f"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "11",
+  "JG": "2",
+  "JE": "2",
+  "JP": "7",
+  "GF": "8",
+  "GC": "22",
+  "DG": "-14",
+  "PTS": "8",
+  "Jornada": "11",
+  "Id_Jornadas": "196"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e90"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "11",
+  "JG": "0",
+  "JE": "2",
+  "JP": "9",
+  "GF": "5",
+  "GC": "33",
+  "DG": "-28",
+  "PTS": "2",
+  "Jornada": "11",
+  "Id_Jornadas": "197"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e91"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "11",
+  "JG": "0",
+  "JE": "0",
+  "JP": "11",
+  "GF": "5",
+  "GC": "34",
+  "DG": "-29",
+  "PTS": "0",
+  "Jornada": "11",
+  "Id_Jornadas": "198"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e92"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "12",
+  "JG": "11",
+  "JE": "1",
+  "JP": "0",
+  "GF": "45",
+  "GC": "7",
+  "DG": "38",
+  "PTS": "34",
+  "Jornada": "12",
+  "Id_Jornadas": "199"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e93"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "12",
+  "JG": "10",
+  "JE": "0",
+  "JP": "2",
+  "GF": "44",
+  "GC": "17",
+  "DG": "27",
+  "PTS": "30",
+  "Jornada": "12",
+  "Id_Jornadas": "200"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e94"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "12",
+  "JG": "8",
+  "JE": "3",
+  "JP": "1",
+  "GF": "29",
+  "GC": "8",
+  "DG": "21",
+  "PTS": "27",
+  "Jornada": "12",
+  "Id_Jornadas": "201"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e95"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "12",
+  "JG": "7",
+  "JE": "3",
+  "JP": "2",
+  "GF": "23",
+  "GC": "14",
+  "DG": "9",
+  "PTS": "24",
+  "Jornada": "12",
+  "Id_Jornadas": "202"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e96"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "12",
+  "JG": "6",
+  "JE": "5",
+  "JP": "1",
+  "GF": "28",
+  "GC": "8",
+  "DG": "20",
+  "PTS": "23",
+  "Jornada": "12",
+  "Id_Jornadas": "203"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e97"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "12",
+  "JG": "7",
+  "JE": "0",
+  "JP": "5",
+  "GF": "17",
+  "GC": "18",
+  "DG": "-1",
+  "PTS": "21",
+  "Jornada": "12",
+  "Id_Jornadas": "204"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e98"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "12",
+  "JG": "6",
+  "JE": "2",
+  "JP": "4",
+  "GF": "30",
+  "GC": "23",
+  "DG": "7",
+  "PTS": "20",
+  "Jornada": "12",
+  "Id_Jornadas": "205"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e99"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "12",
+  "JG": "5",
+  "JE": "3",
+  "JP": "4",
+  "GF": "19",
+  "GC": "21",
+  "DG": "-2",
+  "PTS": "18",
+  "Jornada": "12",
+  "Id_Jornadas": "206"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9a"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "12",
+  "JG": "5",
+  "JE": "2",
+  "JP": "5",
+  "GF": "23",
+  "GC": "20",
+  "DG": "3",
+  "PTS": "17",
+  "Jornada": "12",
+  "Id_Jornadas": "207"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9b"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "12",
+  "JG": "4",
+  "JE": "5",
+  "JP": "3",
+  "GF": "18",
+  "GC": "16",
+  "DG": "2",
+  "PTS": "17",
+  "Jornada": "12",
+  "Id_Jornadas": "208"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9c"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "12",
+  "JG": "5",
+  "JE": "1",
+  "JP": "6",
+  "GF": "19",
+  "GC": "18",
+  "DG": "1",
+  "PTS": "16",
+  "Jornada": "12",
+  "Id_Jornadas": "209"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9d"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "12",
+  "JG": "5",
+  "JE": "1",
+  "JP": "6",
+  "GF": "13",
+  "GC": "21",
+  "DG": "-8",
+  "PTS": "16",
+  "Jornada": "12",
+  "Id_Jornadas": "210"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9e"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "12",
+  "JG": "3",
+  "JE": "3",
+  "JP": "6",
+  "GF": "14",
+  "GC": "23",
+  "DG": "-9",
+  "PTS": "12",
+  "Jornada": "12",
+  "Id_Jornadas": "211"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813e9f"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "12",
+  "JG": "3",
+  "JE": "2",
+  "JP": "7",
+  "GF": "13",
+  "GC": "26",
+  "DG": "-13",
+  "PTS": "11",
+  "Jornada": "12",
+  "Id_Jornadas": "212"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea0"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "12",
+  "JG": "2",
+  "JE": "2",
+  "JP": "8",
+  "GF": "11",
+  "GC": "26",
+  "DG": "-15",
+  "PTS": "8",
+  "Jornada": "12",
+  "Id_Jornadas": "213"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea1"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "12",
+  "JG": "2",
+  "JE": "2",
+  "JP": "8",
+  "GF": "8",
+  "GC": "26",
+  "DG": "-18",
+  "PTS": "8",
+  "Jornada": "12",
+  "Id_Jornadas": "214"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea2"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "12",
+  "JG": "0",
+  "JE": "3",
+  "JP": "9",
+  "GF": "7",
+  "GC": "35",
+  "DG": "-28",
+  "PTS": "3",
+  "Jornada": "12",
+  "Id_Jornadas": "215"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea3"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "12",
+  "JG": "0",
+  "JE": "0",
+  "JP": "12",
+  "GF": "5",
+  "GC": "39",
+  "DG": "-34",
+  "PTS": "0",
+  "Jornada": "12",
+  "Id_Jornadas": "216"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea4"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "13",
+  "JG": "11",
+  "JE": "2",
+  "JP": "0",
+  "GF": "45",
+  "GC": "7",
+  "DG": "38",
+  "PTS": "35",
+  "Jornada": "13",
+  "Id_Jornadas": "217"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea5"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "13",
+  "JG": "11",
+  "JE": "0",
+  "JP": "2",
+  "GF": "49",
+  "GC": "19",
+  "DG": "30",
+  "PTS": "33",
+  "Jornada": "13",
+  "Id_Jornadas": "218"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea6"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "13",
+  "JG": "9",
+  "JE": "3",
+  "JP": "1",
+  "GF": "33",
+  "GC": "10",
+  "DG": "23",
+  "PTS": "30",
+  "Jornada": "13",
+  "Id_Jornadas": "219"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea7"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "13",
+  "JG": "7",
+  "JE": "5",
+  "JP": "1",
+  "GF": "31",
+  "GC": "9",
+  "DG": "22",
+  "PTS": "26",
+  "Jornada": "13",
+  "Id_Jornadas": "220"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea8"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "13",
+  "JG": "7",
+  "JE": "4",
+  "JP": "2",
+  "GF": "23",
+  "GC": "14",
+  "DG": "9",
+  "PTS": "25",
+  "Jornada": "13",
+  "Id_Jornadas": "221"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ea9"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "13",
+  "JG": "7",
+  "JE": "2",
+  "JP": "4",
+  "GF": "36",
+  "GC": "23",
+  "DG": "13",
+  "PTS": "23",
+  "Jornada": "13",
+  "Id_Jornadas": "222"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eaa"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "13",
+  "JG": "7",
+  "JE": "0",
+  "JP": "6",
+  "GF": "17",
+  "GC": "24",
+  "DG": "-7",
+  "PTS": "21",
+  "Jornada": "13",
+  "Id_Jornadas": "223"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eab"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "13",
+  "JG": "6",
+  "JE": "2",
+  "JP": "5",
+  "GF": "29",
+  "GC": "20",
+  "DG": "9",
+  "PTS": "20",
+  "Jornada": "13",
+  "Id_Jornadas": "224"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eac"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "13",
+  "JG": "6",
+  "JE": "1",
+  "JP": "6",
+  "GF": "16",
+  "GC": "22",
+  "DG": "-6",
+  "PTS": "19",
+  "Jornada": "13",
+  "Id_Jornadas": "225"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ead"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "13",
+  "JG": "5",
+  "JE": "3",
+  "JP": "5",
+  "GF": "21",
+  "GC": "25",
+  "DG": "-4",
+  "PTS": "18",
+  "Jornada": "13",
+  "Id_Jornadas": "226"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eae"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "13",
+  "JG": "4",
+  "JE": "5",
+  "JP": "4",
+  "GF": "20",
+  "GC": "21",
+  "DG": "-1",
+  "PTS": "17",
+  "Jornada": "13",
+  "Id_Jornadas": "227"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eaf"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "13",
+  "JG": "5",
+  "JE": "1",
+  "JP": "7",
+  "GF": "20",
+  "GC": "21",
+  "DG": "-1",
+  "PTS": "16",
+  "Jornada": "13",
+  "Id_Jornadas": "228"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb0"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "13",
+  "JG": "4",
+  "JE": "2",
+  "JP": "7",
+  "GF": "16",
+  "GC": "27",
+  "DG": "-11",
+  "PTS": "14",
+  "Jornada": "13",
+  "Id_Jornadas": "229"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb1"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "13",
+  "JG": "3",
+  "JE": "3",
+  "JP": "7",
+  "GF": "15",
+  "GC": "26",
+  "DG": "-11",
+  "PTS": "12",
+  "Jornada": "13",
+  "Id_Jornadas": "230"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb2"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "13",
+  "JG": "3",
+  "JE": "2",
+  "JP": "8",
+  "GF": "13",
+  "GC": "27",
+  "DG": "-14",
+  "PTS": "11",
+  "Jornada": "13",
+  "Id_Jornadas": "231"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb3"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "13",
+  "JG": "2",
+  "JE": "2",
+  "JP": "9",
+  "GF": "8",
+  "GC": "32",
+  "DG": "-24",
+  "PTS": "8",
+  "Jornada": "13",
+  "Id_Jornadas": "232"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb4"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "13",
+  "JG": "0",
+  "JE": "3",
+  "JP": "10",
+  "GF": "8",
+  "GC": "37",
+  "DG": "-29",
+  "PTS": "3",
+  "Jornada": "13",
+  "Id_Jornadas": "233"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb5"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "13",
+  "JG": "0",
+  "JE": "0",
+  "JP": "13",
+  "GF": "6",
+  "GC": "42",
+  "DG": "-36",
+  "PTS": "0",
+  "Jornada": "13",
+  "Id_Jornadas": "234"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb6"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "14",
+  "JG": "12",
+  "JE": "2",
+  "JP": "0",
+  "GF": "46",
+  "GC": "7",
+  "DG": "39",
+  "PTS": "38",
+  "Jornada": "14",
+  "Id_Jornadas": "235"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb7"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "14",
+  "JG": "12",
+  "JE": "0",
+  "JP": "2",
+  "GF": "54",
+  "GC": "19",
+  "DG": "35",
+  "PTS": "36",
+  "Jornada": "14",
+  "Id_Jornadas": "236"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb8"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "14",
+  "JG": "10",
+  "JE": "3",
+  "JP": "1",
+  "GF": "35",
+  "GC": "10",
+  "DG": "25",
+  "PTS": "33",
+  "Jornada": "14",
+  "Id_Jornadas": "237"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eb9"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "14",
+  "JG": "8",
+  "JE": "5",
+  "JP": "1",
+  "GF": "33",
+  "GC": "10",
+  "DG": "23",
+  "PTS": "29",
+  "Jornada": "14",
+  "Id_Jornadas": "238"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eba"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "14",
+  "JG": "8",
+  "JE": "4",
+  "JP": "2",
+  "GF": "26",
+  "GC": "16",
+  "DG": "10",
+  "PTS": "28",
+  "Jornada": "14",
+  "Id_Jornadas": "239"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ebb"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "14",
+  "JG": "7",
+  "JE": "2",
+  "JP": "5",
+  "GF": "38",
+  "GC": "26",
+  "DG": "12",
+  "PTS": "23",
+  "Jornada": "14",
+  "Id_Jornadas": "240"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ebc"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "14",
+  "JG": "6",
+  "JE": "3",
+  "JP": "5",
+  "GF": "23",
+  "GC": "26",
+  "DG": "-3",
+  "PTS": "21",
+  "Jornada": "14",
+  "Id_Jornadas": "241"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ebd"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "14",
+  "JG": "7",
+  "JE": "0",
+  "JP": "7",
+  "GF": "17",
+  "GC": "26",
+  "DG": "-9",
+  "PTS": "21",
+  "Jornada": "14",
+  "Id_Jornadas": "242"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ebe"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "14",
+  "JG": "6",
+  "JE": "2",
+  "JP": "6",
+  "GF": "31",
+  "GC": "23",
+  "DG": "8",
+  "PTS": "20",
+  "Jornada": "14",
+  "Id_Jornadas": "243"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ebf"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "14",
+  "JG": "5",
+  "JE": "5",
+  "JP": "4",
+  "GF": "23",
+  "GC": "21",
+  "DG": "2",
+  "PTS": "20",
+  "Jornada": "14",
+  "Id_Jornadas": "244"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec0"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "14",
+  "JG": "6",
+  "JE": "1",
+  "JP": "7",
+  "GF": "23",
+  "GC": "23",
+  "DG": "0",
+  "PTS": "19",
+  "Jornada": "14",
+  "Id_Jornadas": "245"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec1"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "14",
+  "JG": "6",
+  "JE": "1",
+  "JP": "7",
+  "GF": "16",
+  "GC": "23",
+  "DG": "-7",
+  "PTS": "19",
+  "Jornada": "14",
+  "Id_Jornadas": "246"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec2"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "14",
+  "JG": "4",
+  "JE": "2",
+  "JP": "8",
+  "GF": "17",
+  "GC": "29",
+  "DG": "-12",
+  "PTS": "14",
+  "Jornada": "14",
+  "Id_Jornadas": "247"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec3"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "14",
+  "JG": "3",
+  "JE": "3",
+  "JP": "8",
+  "GF": "16",
+  "GC": "28",
+  "DG": "-12",
+  "PTS": "12",
+  "Jornada": "14",
+  "Id_Jornadas": "248"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec4"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "14",
+  "JG": "3",
+  "JE": "2",
+  "JP": "9",
+  "GF": "13",
+  "GC": "30",
+  "DG": "-17",
+  "PTS": "11",
+  "Jornada": "14",
+  "Id_Jornadas": "249"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec5"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "14",
+  "JG": "2",
+  "JE": "2",
+  "JP": "10",
+  "GF": "8",
+  "GC": "37",
+  "DG": "-29",
+  "PTS": "8",
+  "Jornada": "14",
+  "Id_Jornadas": "250"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec6"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "14",
+  "JG": "0",
+  "JE": "4",
+  "JP": "10",
+  "GF": "10",
+  "GC": "39",
+  "DG": "-29",
+  "PTS": "4",
+  "Jornada": "14",
+  "Id_Jornadas": "251"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec7"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "14",
+  "JG": "0",
+  "JE": "1",
+  "JP": "13",
+  "GF": "8",
+  "GC": "44",
+  "DG": "-36",
+  "PTS": "1",
+  "Jornada": "14",
+  "Id_Jornadas": "252"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec8"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "15",
+  "JG": "13",
+  "JE": "2",
+  "JP": "0",
+  "GF": "47",
+  "GC": "7",
+  "DG": "40",
+  "PTS": "41",
+  "Jornada": "15",
+  "Id_Jornadas": "253"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ec9"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "15",
+  "JG": "13",
+  "JE": "0",
+  "JP": "2",
+  "GF": "60",
+  "GC": "20",
+  "DG": "40",
+  "PTS": "39",
+  "Jornada": "15",
+  "Id_Jornadas": "254"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eca"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "15",
+  "JG": "11",
+  "JE": "3",
+  "JP": "1",
+  "GF": "38",
+  "GC": "10",
+  "DG": "28",
+  "PTS": "36",
+  "Jornada": "15",
+  "Id_Jornadas": "255"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ecb"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "15",
+  "JG": "9",
+  "JE": "5",
+  "JP": "1",
+  "GF": "36",
+  "GC": "11",
+  "DG": "25",
+  "PTS": "32",
+  "Jornada": "15",
+  "Id_Jornadas": "256"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ecc"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "15",
+  "JG": "9",
+  "JE": "4",
+  "JP": "2",
+  "GF": "32",
+  "GC": "19",
+  "DG": "13",
+  "PTS": "31",
+  "Jornada": "15",
+  "Id_Jornadas": "257"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ecd"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "15",
+  "JG": "7",
+  "JE": "3",
+  "JP": "5",
+  "GF": "39",
+  "GC": "27",
+  "DG": "12",
+  "PTS": "24",
+  "Jornada": "15",
+  "Id_Jornadas": "258"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ece"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "15",
+  "JG": "7",
+  "JE": "3",
+  "JP": "5",
+  "GF": "24",
+  "GC": "26",
+  "DG": "-2",
+  "PTS": "24",
+  "Jornada": "15",
+  "Id_Jornadas": "259"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ecf"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "15",
+  "JG": "6",
+  "JE": "5",
+  "JP": "4",
+  "GF": "27",
+  "GC": "21",
+  "DG": "6",
+  "PTS": "23",
+  "Jornada": "15",
+  "Id_Jornadas": "260"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed0"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "15",
+  "JG": "7",
+  "JE": "0",
+  "JP": "8",
+  "GF": "17",
+  "GC": "27",
+  "DG": "-10",
+  "PTS": "21",
+  "Jornada": "15",
+  "Id_Jornadas": "261"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed1"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "15",
+  "JG": "6",
+  "JE": "2",
+  "JP": "7",
+  "GF": "31",
+  "GC": "26",
+  "DG": "5",
+  "PTS": "20",
+  "Jornada": "15",
+  "Id_Jornadas": "262"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed2"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "15",
+  "JG": "6",
+  "JE": "2",
+  "JP": "7",
+  "GF": "24",
+  "GC": "24",
+  "DG": "0",
+  "PTS": "20",
+  "Jornada": "15",
+  "Id_Jornadas": "263"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed3"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "15",
+  "JG": "6",
+  "JE": "1",
+  "JP": "8",
+  "GF": "19",
+  "GC": "29",
+  "DG": "-10",
+  "PTS": "19",
+  "Jornada": "15",
+  "Id_Jornadas": "264"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed4"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "15",
+  "JG": "5",
+  "JE": "2",
+  "JP": "8",
+  "GF": "18",
+  "GC": "29",
+  "DG": "-11",
+  "PTS": "17",
+  "Jornada": "15",
+  "Id_Jornadas": "265"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed5"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "15",
+  "JG": "3",
+  "JE": "3",
+  "JP": "9",
+  "GF": "16",
+  "GC": "29",
+  "DG": "-13",
+  "PTS": "12",
+  "Jornada": "15",
+  "Id_Jornadas": "266"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed6"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "15",
+  "JG": "3",
+  "JE": "2",
+  "JP": "10",
+  "GF": "14",
+  "GC": "36",
+  "DG": "-22",
+  "PTS": "11",
+  "Jornada": "15",
+  "Id_Jornadas": "267"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed7"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "15",
+  "JG": "2",
+  "JE": "2",
+  "JP": "11",
+  "GF": "8",
+  "GC": "38",
+  "DG": "-30",
+  "PTS": "8",
+  "Jornada": "15",
+  "Id_Jornadas": "268"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed8"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "15",
+  "JG": "0",
+  "JE": "4",
+  "JP": "11",
+  "GF": "10",
+  "GC": "43",
+  "DG": "-33",
+  "PTS": "4",
+  "Jornada": "15",
+  "Id_Jornadas": "269"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ed9"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "15",
+  "JG": "0",
+  "JE": "1",
+  "JP": "14",
+  "GF": "9",
+  "GC": "47",
+  "DG": "-38",
+  "PTS": "1",
+  "Jornada": "15",
+  "Id_Jornadas": "270"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eda"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "16",
+  "JG": "14",
+  "JE": "0",
+  "JP": "2",
+  "GF": "64",
+  "GC": "21",
+  "DG": "43",
+  "PTS": "42",
+  "Jornada": "16",
+  "Id_Jornadas": "271"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813edb"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "16",
+  "JG": "13",
+  "JE": "2",
+  "JP": "1",
+  "GF": "48",
+  "GC": "10",
+  "DG": "38",
+  "PTS": "41",
+  "Jornada": "16",
+  "Id_Jornadas": "272"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813edc"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "16",
+  "JG": "11",
+  "JE": "3",
+  "JP": "2",
+  "GF": "38",
+  "GC": "11",
+  "DG": "27",
+  "PTS": "36",
+  "Jornada": "16",
+  "Id_Jornadas": "273"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813edd"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "16",
+  "JG": "10",
+  "JE": "5",
+  "JP": "1",
+  "GF": "39",
+  "GC": "12",
+  "DG": "27",
+  "PTS": "35",
+  "Jornada": "16",
+  "Id_Jornadas": "274"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ede"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "16",
+  "JG": "9",
+  "JE": "4",
+  "JP": "3",
+  "GF": "32",
+  "GC": "20",
+  "DG": "12",
+  "PTS": "31",
+  "Jornada": "16",
+  "Id_Jornadas": "275"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813edf"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "16",
+  "JG": "8",
+  "JE": "3",
+  "JP": "5",
+  "GF": "42",
+  "GC": "28",
+  "DG": "14",
+  "PTS": "27",
+  "Jornada": "16",
+  "Id_Jornadas": "276"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee0"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "16",
+  "JG": "8",
+  "JE": "3",
+  "JP": "5",
+  "GF": "27",
+  "GC": "26",
+  "DG": "1",
+  "PTS": "27",
+  "Jornada": "16",
+  "Id_Jornadas": "277"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee1"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "16",
+  "JG": "7",
+  "JE": "5",
+  "JP": "4",
+  "GF": "28",
+  "GC": "21",
+  "DG": "7",
+  "PTS": "26",
+  "Jornada": "16",
+  "Id_Jornadas": "278"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee2"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "16",
+  "JG": "7",
+  "JE": "2",
+  "JP": "7",
+  "GF": "35",
+  "GC": "27",
+  "DG": "8",
+  "PTS": "23",
+  "Jornada": "16",
+  "Id_Jornadas": "279"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee3"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "16",
+  "JG": "7",
+  "JE": "1",
+  "JP": "8",
+  "GF": "19",
+  "GC": "29",
+  "DG": "-10",
+  "PTS": "22",
+  "Jornada": "16",
+  "Id_Jornadas": "280"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee4"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "16",
+  "JG": "6",
+  "JE": "2",
+  "JP": "8",
+  "GF": "25",
+  "GC": "28",
+  "DG": "-3",
+  "PTS": "20",
+  "Jornada": "16",
+  "Id_Jornadas": "281"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee5"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "16",
+  "JG": "6",
+  "JE": "2",
+  "JP": "8",
+  "GF": "19",
+  "GC": "29",
+  "DG": "-10",
+  "PTS": "20",
+  "Jornada": "16",
+  "Id_Jornadas": "282"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee6"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "16",
+  "JG": "6",
+  "JE": "1",
+  "JP": "9",
+  "GF": "19",
+  "GC": "32",
+  "DG": "-13",
+  "PTS": "19",
+  "Jornada": "16",
+  "Id_Jornadas": "283"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee7"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "16",
+  "JG": "4",
+  "JE": "2",
+  "JP": "10",
+  "GF": "18",
+  "GC": "39",
+  "DG": "-21",
+  "PTS": "14",
+  "Jornada": "16",
+  "Id_Jornadas": "284"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee8"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "16",
+  "JG": "3",
+  "JE": "3",
+  "JP": "10",
+  "GF": "17",
+  "GC": "33",
+  "DG": "-16",
+  "PTS": "12",
+  "Jornada": "16",
+  "Id_Jornadas": "285"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ee9"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "16",
+  "JG": "2",
+  "JE": "2",
+  "JP": "12",
+  "GF": "9",
+  "GC": "41",
+  "DG": "-32",
+  "PTS": "8",
+  "Jornada": "16",
+  "Id_Jornadas": "286"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eea"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "16",
+  "JG": "0",
+  "JE": "5",
+  "JP": "11",
+  "GF": "12",
+  "GC": "45",
+  "DG": "-33",
+  "PTS": "5",
+  "Jornada": "16",
+  "Id_Jornadas": "287"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eeb"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "16",
+  "JG": "0",
+  "JE": "1",
+  "JP": "15",
+  "GF": "12",
+  "GC": "51",
+  "DG": "-39",
+  "PTS": "1",
+  "Jornada": "16",
+  "Id_Jornadas": "288"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eec"
+  },
+  "Posición": null,
+  "Equipo": "Tigres Fem",
+  "JJ": "17",
+  "JG": "14",
+  "JE": "2",
+  "JP": "1",
+  "GF": "51",
+  "GC": "11",
+  "DG": "40",
+  "PTS": "44",
+  "Jornada": "17",
+  "Id_Jornadas": "289"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eed"
+  },
+  "Posición": null,
+  "Equipo": "America Fem",
+  "JJ": "17",
+  "JG": "14",
+  "JE": "0",
+  "JP": "3",
+  "GF": "65",
+  "GC": "23",
+  "DG": "42",
+  "PTS": "42",
+  "Jornada": "17",
+  "Id_Jornadas": "290"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eee"
+  },
+  "Posición": null,
+  "Equipo": "Chivas Fem",
+  "JJ": "17",
+  "JG": "12",
+  "JE": "3",
+  "JP": "2",
+  "GF": "41",
+  "GC": "11",
+  "DG": "30",
+  "PTS": "39",
+  "Jornada": "17",
+  "Id_Jornadas": "291"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eef"
+  },
+  "Posición": null,
+  "Equipo": "Monterrey Fem",
+  "JJ": "17",
+  "JG": "11",
+  "JE": "5",
+  "JP": "1",
+  "GF": "41",
+  "GC": "13",
+  "DG": "28",
+  "PTS": "38",
+  "Jornada": "17",
+  "Id_Jornadas": "292"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef0"
+  },
+  "Posición": null,
+  "Equipo": "Tijuana Fem",
+  "JJ": "17",
+  "JG": "9",
+  "JE": "4",
+  "JP": "4",
+  "GF": "32",
+  "GC": "21",
+  "DG": "11",
+  "PTS": "31",
+  "Jornada": "17",
+  "Id_Jornadas": "293"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef1"
+  },
+  "Posición": null,
+  "Equipo": "Toluca Fem",
+  "JJ": "17",
+  "JG": "9",
+  "JE": "3",
+  "JP": "5",
+  "GF": "28",
+  "GC": "26",
+  "DG": "2",
+  "PTS": "30",
+  "Jornada": "17",
+  "Id_Jornadas": "294"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef2"
+  },
+  "Posición": null,
+  "Equipo": "Pachuca Fem",
+  "JJ": "17",
+  "JG": "8",
+  "JE": "3",
+  "JP": "6",
+  "GF": "42",
+  "GC": "31",
+  "DG": "11",
+  "PTS": "27",
+  "Jornada": "17",
+  "Id_Jornadas": "295"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef3"
+  },
+  "Posición": null,
+  "Equipo": "Pumas Fem",
+  "JJ": "17",
+  "JG": "8",
+  "JE": "2",
+  "JP": "7",
+  "GF": "37",
+  "GC": "27",
+  "DG": "10",
+  "PTS": "26",
+  "Jornada": "17",
+  "Id_Jornadas": "296"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef4"
+  },
+  "Posición": null,
+  "Equipo": "FC JuÃ¡rez Fem",
+  "JJ": "17",
+  "JG": "7",
+  "JE": "5",
+  "JP": "5",
+  "GF": "28",
+  "GC": "23",
+  "DG": "5",
+  "PTS": "26",
+  "Jornada": "17",
+  "Id_Jornadas": "297"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef5"
+  },
+  "Posición": null,
+  "Equipo": "LeÃ³n Fem",
+  "JJ": "17",
+  "JG": "7",
+  "JE": "2",
+  "JP": "8",
+  "GF": "20",
+  "GC": "30",
+  "DG": "-10",
+  "PTS": "23",
+  "Jornada": "17",
+  "Id_Jornadas": "298"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef6"
+  },
+  "Posición": null,
+  "Equipo": "Cruz Azul Fem",
+  "JJ": "17",
+  "JG": "7",
+  "JE": "1",
+  "JP": "9",
+  "GF": "25",
+  "GC": "32",
+  "DG": "-7",
+  "PTS": "22",
+  "Jornada": "17",
+  "Id_Jornadas": "299"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef7"
+  },
+  "Posición": null,
+  "Equipo": "QuerÃ©taro Fem",
+  "JJ": "17",
+  "JG": "6",
+  "JE": "3",
+  "JP": "8",
+  "GF": "25",
+  "GC": "28",
+  "DG": "-3",
+  "PTS": "21",
+  "Jornada": "17",
+  "Id_Jornadas": "300"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef8"
+  },
+  "Posición": null,
+  "Equipo": "Atlas Fem",
+  "JJ": "17",
+  "JG": "6",
+  "JE": "3",
+  "JP": "8",
+  "GF": "20",
+  "GC": "30",
+  "DG": "-10",
+  "PTS": "21",
+  "Jornada": "17",
+  "Id_Jornadas": "301"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813ef9"
+  },
+  "Posición": null,
+  "Equipo": "Puebla Fem",
+  "JJ": "17",
+  "JG": "5",
+  "JE": "2",
+  "JP": "10",
+  "GF": "19",
+  "GC": "39",
+  "DG": "-20",
+  "PTS": "17",
+  "Jornada": "17",
+  "Id_Jornadas": "302"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813efa"
+  },
+  "Posición": null,
+  "Equipo": "AtlÃ©tico de San Luis Fem",
+  "JJ": "17",
+  "JG": "3",
+  "JE": "3",
+  "JP": "11",
+  "GF": "17",
+  "GC": "34",
+  "DG": "-17",
+  "PTS": "12",
+  "Jornada": "17",
+  "Id_Jornadas": "303"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813efb"
+  },
+  "Posición": null,
+  "Equipo": "Necaxa Fem",
+  "JJ": "17",
+  "JG": "2",
+  "JE": "2",
+  "JP": "13",
+  "GF": "10",
+  "GC": "44",
+  "DG": "-34",
+  "PTS": "8",
+  "Jornada": "17",
+  "Id_Jornadas": "304"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813efc"
+  },
+  "Posición": null,
+  "Equipo": "Santos Fem",
+  "JJ": "17",
+  "JG": "0",
+  "JE": "5",
+  "JP": "12",
+  "GF": "12",
+  "GC": "51",
+  "DG": "-39",
+  "PTS": "5",
+  "Jornada": "17",
+  "Id_Jornadas": "305"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813efd"
+  },
+  "Posición": null,
+  "Equipo": "MazatlÃ¡n Fem",
+  "JJ": "17",
+  "JG": "0",
+  "JE": "2",
+  "JP": "15",
+  "GF": "12",
+  "GC": "51",
+  "DG": "-39",
+  "PTS": "2",
+  "Jornada": "17",
+  "Id_Jornadas": "306"
+}]
