@@ -6,7 +6,7 @@ mongo_db= mongo_client[db_name]
 
 #convertir los datos a DATAFRAME
 def conexion(ntabla,columnas=[]):
-  tablas=mongo_db[ntablas]
+  tabla=mongo_db[ntabla]
   losdatos= list(tablas.find())
   df=pd.DataFrame(losdatos)
   for col in columnas:
