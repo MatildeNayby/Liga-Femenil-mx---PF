@@ -1,0 +1,48 @@
+import csv
+from pymongo import MongoClient
+
+#Conectar a mongoDB
+mongo_client=MongoClient('mongodb://localhost:27017/')
+db_name='BddJornadas_MX2023'
+mongo_db=mongo_client[db_name]
+
+#Eliminaremos la base de datos si ya existe
+if db_name in mongo_client.list_database_names():
+  mongo_client.drop_database(db_name)
+  print(f"la base de datos '{db_name}' ha sido eliminada"
+
+def migracion(archivo_csv,nombre_coleccion,columnas):
+  collection=mongo_db[nombre_coleccion]
+  with open (archivo_csv,'r') as archivocsv:
+    lectordedatos=csv.DictReader(archivocsv)
+    for each in lectordedatos:
+      filas={}
+      for campos in columnas:
+        if campos in each:
+          filas [campos]=each[campos]
+        else:
+          print(f"Advertencia:'{campos}' no encontrado en el archivo CSV")
+          filas[campos]=None
+      print(filas)
+      collection.insert_one(filas)
+
+losdatos=[
+    ('Jornadas_2023.csv','jornadas', ['posicion','Equipo','JJ','JG','JE','JP', 'GF','GC','DG','PTS','Jornada','Id_jornadas'])
+    ('PG_Jornada.csv', 'pg_jornada',['Id','Id_Equipo','PTS_Ganados', 'Jornada']),
+    ('Progreso_por_jornada.csv','progreso_por_jornada',['Equipo', 'Jornada','Juegos Jugados','Juegos Ganados', 'Juegos Empatados', 'Juegos Perdidos','Id']),
+    ('clasificacion_juego_limpio.csv','clasificacion_juego_limpio',['Id','Lugar','Club','Yellow Cards','Second Yellow and Red Card']),
+    ('maximas_goleadoras.csv','maximas_goleadoras',['ID','Posicion','Jugadora','Club', 'Goles', 'Min', 'Frec.'])
+
+for archivo,nombre_coleccion,columnas in losdatos:
+  migracion(archivo,nombre_coleccion,columnas)
+print("Listo, migracion completa"
+print(mongo_db.list_collection_names())
+
+for nombre_coleccion in mongo_db.list,collection_names():
+  collection=mongo_db[nombre_coleccion]
+  print(f "Las colecciones '{nombre_coleccion}':")
+  for col in collection.find():
+    print(col)
+mongo_client.close()
+  
+
