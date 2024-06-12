@@ -14,8 +14,8 @@ def conexion(ntabla,columnas=[]):
           df[col]=pd.to_numeric(df[col],errors='coerce')
       else:
           print(f"Hay un error la '{col}' no existe en la tabla '{ntabla}'")
- df['_id']= df['_id'].astype(str)
- return df
+  df['_id']= df['_id'].astype(str)
+  return df
 df_jornadas= conexion ('jornadas',['JJ','JG','JE','JP','GF','GC','DG','PTS','Jornadas'])
 df_pg_jornadas=conexion('pg_jornada', ['PTS_Ganados','Jornada'])
 df_progreso_por_jornada= conexion ('progreso_por_jornada',['Jornada','Juegos Ganados'])
