@@ -8,7 +8,7 @@ def juegoLimpio(soup):
   encabezados= [th.get_text(strip=True) for th in filas[0].find_all("th")]
   datos=[]
   for fila in filas[1:]:
-    celdas= fila.fins_all(["th", "td"])
+    celdas= fila.find_all(["th", "td"])
     datos.append([celda.get_text(strip=True) for celda in celdas])
   df= pd.DataFrame(datos, columns= encabezados)
   df.insert(0, "ID", range(801, 801 + len(df)))
@@ -61,7 +61,7 @@ def scrapjornada(url, jornada, df):
     pts.append(int(columnas[9].text.strip()))
 
   data = {
-    "Posicion": positions,
+    "Posición": positions,
     "Equipo": teams,
     "JJ": jj,
     "JG": jg,
@@ -73,6 +73,8 @@ def scrapjornada(url, jornada, df):
     "PTS": pts,
     "Jornada": [jornada] * len(positions)
   }
+  jornada_df = pd.DataFrame(data)
+  return df._append(jornada_df, ignore_index=True)
 
 #ligas de las jornadas
 urls = [
