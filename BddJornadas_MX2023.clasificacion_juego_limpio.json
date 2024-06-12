@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5816"
+  },
+  "ID": "801",
+  "Lugar": "1",
+  "Club": "AmÃ©rica",
+  "TarjetasAmarillas": "20",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "23"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5817"
+  },
+  "ID": "802",
+  "Lugar": "2",
+  "Club": "Guadalajara",
+  "TarjetasAmarillas": "20",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "23"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5818"
+  },
+  "ID": "803",
+  "Lugar": "3",
+  "Club": "Toluca",
+  "TarjetasAmarillas": "27",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "0",
+  "Puntos": "27"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5819"
+  },
+  "ID": "804",
+  "Lugar": "4",
+  "Club": "Atlas",
+  "TarjetasAmarillas": "24",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "0",
+  "Puntos": "27"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581a"
+  },
+  "ID": "805",
+  "Lugar": "5",
+  "Club": "Tijuana",
+  "TarjetasAmarillas": "25",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "28"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581b"
+  },
+  "ID": "806",
+  "Lugar": "6",
+  "Club": "Monterrey",
+  "TarjetasAmarillas": "33",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "0",
+  "Puntos": "33"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581c"
+  },
+  "ID": "807",
+  "Lugar": "7",
+  "Club": "AtlÃ©tico de San Luis",
+  "TarjetasAmarillas": "30",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "36"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581d"
+  },
+  "ID": "808",
+  "Lugar": "8",
+  "Club": "Necaxa",
+  "TarjetasAmarillas": "28",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "2",
+  "Puntos": "37"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581e"
+  },
+  "ID": "809",
+  "Lugar": "9",
+  "Club": "Pumas UNAM",
+  "TarjetasAmarillas": "29",
+  "2dasTarjetasAmarillas": "2",
+  "TarjetasRojas": "1",
+  "Puntos": "38"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad581f"
+  },
+  "ID": "810",
+  "Lugar": "10",
+  "Club": "LeÃ³n",
+  "TarjetasAmarillas": "32",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "38"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5820"
+  },
+  "ID": "811",
+  "Lugar": "11",
+  "Club": "Santos Laguna",
+  "TarjetasAmarillas": "33",
+  "2dasTarjetasAmarillas": "2",
+  "TarjetasRojas": "0",
+  "Puntos": "39"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5821"
+  },
+  "ID": "812",
+  "Lugar": "12",
+  "Club": "Cruz Azul",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "40"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5822"
+  },
+  "ID": "813",
+  "Lugar": "13",
+  "Club": "QuerÃ©taro",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "0",
+  "Puntos": "42"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5823"
+  },
+  "ID": "814",
+  "Lugar": "14",
+  "Club": "Tigres UANL",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "3",
+  "TarjetasRojas": "0",
+  "Puntos": "43"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5824"
+  },
+  "ID": "815",
+  "Lugar": "15",
+  "Club": "Puebla",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "3",
+  "Puntos": "43"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5825"
+  },
+  "ID": "816",
+  "Lugar": "16",
+  "Club": "MazatlÃ¡n",
+  "TarjetasAmarillas": "32",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "4",
+  "Puntos": "47"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5826"
+  },
+  "ID": "817",
+  "Lugar": "17",
+  "Club": "JuÃ¡rez",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "2",
+  "Puntos": "48"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5827"
+  },
+  "ID": "818",
+  "Lugar": "18",
+  "Club": "Pachuca",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "5",
+  "Puntos": "54"
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5828"
+  },
+  "ID": "819",
+  "Lugar": "Primera Tarjeta Amarilla",
+  "Club": "1 punto",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5829"
+  },
+  "ID": "820",
+  "Lugar": "Segunda Tarjeta Amarilla y ExpulsiÃ³n",
+  "Club": "3 puntos",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582a"
+  },
+  "ID": "821",
+  "Lugar": "Tarjeta Roja Directa",
+  "Club": "3 puntos",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fd7"
+  },
+  "ID": "801",
+  "Lugar": "1",
+  "Club": "AmÃ©rica",
+  "TarjetasAmarillas": "20",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "23"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fd8"
+  },
+  "ID": "802",
+  "Lugar": "2",
+  "Club": "Guadalajara",
+  "TarjetasAmarillas": "20",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "23"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fd9"
+  },
+  "ID": "803",
+  "Lugar": "3",
+  "Club": "Toluca",
+  "TarjetasAmarillas": "27",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "0",
+  "Puntos": "27"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fda"
+  },
+  "ID": "804",
+  "Lugar": "4",
+  "Club": "Atlas",
+  "TarjetasAmarillas": "24",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "0",
+  "Puntos": "27"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fdb"
+  },
+  "ID": "805",
+  "Lugar": "5",
+  "Club": "Tijuana",
+  "TarjetasAmarillas": "25",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "1",
+  "Puntos": "28"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fdc"
+  },
+  "ID": "806",
+  "Lugar": "6",
+  "Club": "Monterrey",
+  "TarjetasAmarillas": "33",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "0",
+  "Puntos": "33"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fdd"
+  },
+  "ID": "807",
+  "Lugar": "7",
+  "Club": "AtlÃ©tico de San Luis",
+  "TarjetasAmarillas": "30",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "36"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fde"
+  },
+  "ID": "808",
+  "Lugar": "8",
+  "Club": "Necaxa",
+  "TarjetasAmarillas": "28",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "2",
+  "Puntos": "37"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fdf"
+  },
+  "ID": "809",
+  "Lugar": "9",
+  "Club": "Pumas UNAM",
+  "TarjetasAmarillas": "29",
+  "2dasTarjetasAmarillas": "2",
+  "TarjetasRojas": "1",
+  "Puntos": "38"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe0"
+  },
+  "ID": "810",
+  "Lugar": "10",
+  "Club": "LeÃ³n",
+  "TarjetasAmarillas": "32",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "38"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe1"
+  },
+  "ID": "811",
+  "Lugar": "11",
+  "Club": "Santos Laguna",
+  "TarjetasAmarillas": "33",
+  "2dasTarjetasAmarillas": "2",
+  "TarjetasRojas": "0",
+  "Puntos": "39"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe2"
+  },
+  "ID": "812",
+  "Lugar": "12",
+  "Club": "Cruz Azul",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "1",
+  "Puntos": "40"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe3"
+  },
+  "ID": "813",
+  "Lugar": "13",
+  "Club": "QuerÃ©taro",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "0",
+  "Puntos": "42"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe4"
+  },
+  "ID": "814",
+  "Lugar": "14",
+  "Club": "Tigres UANL",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "3",
+  "TarjetasRojas": "0",
+  "Puntos": "43"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe5"
+  },
+  "ID": "815",
+  "Lugar": "15",
+  "Club": "Puebla",
+  "TarjetasAmarillas": "34",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "3",
+  "Puntos": "43"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe6"
+  },
+  "ID": "816",
+  "Lugar": "16",
+  "Club": "MazatlÃ¡n",
+  "TarjetasAmarillas": "32",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "4",
+  "Puntos": "47"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe7"
+  },
+  "ID": "817",
+  "Lugar": "17",
+  "Club": "JuÃ¡rez",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "1",
+  "TarjetasRojas": "2",
+  "Puntos": "48"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe8"
+  },
+  "ID": "818",
+  "Lugar": "18",
+  "Club": "Pachuca",
+  "TarjetasAmarillas": "39",
+  "2dasTarjetasAmarillas": "0",
+  "TarjetasRojas": "5",
+  "Puntos": "54"
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fe9"
+  },
+  "ID": "819",
+  "Lugar": "Primera Tarjeta Amarilla",
+  "Club": "1 punto",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fea"
+  },
+  "ID": "820",
+  "Lugar": "Segunda Tarjeta Amarilla y ExpulsiÃ³n",
+  "Club": "3 puntos",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58feb"
+  },
+  "ID": "821",
+  "Lugar": "Tarjeta Roja Directa",
+  "Club": "3 puntos",
+  "TarjetasAmarillas": "",
+  "2dasTarjetasAmarillas": "",
+  "TarjetasRojas": "",
+  "Puntos": ""
+}]

@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582b"
+  },
+  "ID": "901",
+  "Posición": null,
+  "Jugadora": "Maricarmen Reyes",
+  "Club": "Tigres UANL",
+  "Goles": "15",
+  "Min.": "1189",
+  "Frec.": "79.27 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582c"
+  },
+  "ID": "902",
+  "Posición": null,
+  "Jugadora": "Alicia Cervantes",
+  "Club": "Guadalajara",
+  "Goles": "15",
+  "Min.": "1398",
+  "Frec.": "93.2 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582d"
+  },
+  "ID": "903",
+  "Posición": null,
+  "Jugadora": "Charlyn Corral",
+  "Club": "Pachuca",
+  "Goles": "13",
+  "Min.": "1440",
+  "Frec.": "110.77 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582e"
+  },
+  "ID": "904",
+  "Posición": null,
+  "Jugadora": "Kiana Palacios",
+  "Club": "AmÃ©rica",
+  "Goles": "11",
+  "Min.": "858",
+  "Frec.": "78 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad582f"
+  },
+  "ID": "905",
+  "Posición": null,
+  "Jugadora": "Lizbeth Ovalle",
+  "Club": "Tigres UANL",
+  "Goles": "11",
+  "Min.": "1186",
+  "Frec.": "107.82 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5830"
+  },
+  "ID": "906",
+  "Posición": null,
+  "Jugadora": "Christina Burkenroad",
+  "Club": "Monterrey",
+  "Goles": "10",
+  "Min.": "982",
+  "Frec.": "98.2 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5831"
+  },
+  "ID": "907",
+  "Posición": null,
+  "Jugadora": "Katty MartÃ­nez",
+  "Club": "AmÃ©rica",
+  "Goles": "10",
+  "Min.": "1082",
+  "Frec.": "108.2 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5832"
+  },
+  "ID": "908",
+  "Posición": null,
+  "Jugadora": "Andrea Pereira",
+  "Club": "AmÃ©rica",
+  "Goles": "10",
+  "Min.": "1098",
+  "Frec.": "109.8 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5833"
+  },
+  "ID": "909",
+  "Posición": null,
+  "Jugadora": "DesirÃ©e MonsivÃ¡is",
+  "Club": "Pumas UNAM",
+  "Goles": "9",
+  "Min.": "931",
+  "Frec.": "103.44 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5834"
+  },
+  "ID": "910",
+  "Posición": null,
+  "Jugadora": "AÃ­sha SolÃ³rzano",
+  "Club": "Puebla",
+  "Goles": "8",
+  "Min.": "927",
+  "Frec.": "115.88 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5835"
+  },
+  "ID": "911",
+  "Posición": null,
+  "Jugadora": "Ã‰rica Gomes",
+  "Club": "Cruz Azul",
+  "Goles": "8",
+  "Min.": "1020",
+  "Frec.": "127.5 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5836"
+  },
+  "ID": "912",
+  "Posición": null,
+  "Jugadora": "Jasmine CasÃ¡rez",
+  "Club": "JuÃ¡rez",
+  "Goles": "8",
+  "Min.": "1025",
+  "Frec.": "128.13 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5837"
+  },
+  "ID": "913",
+  "Posición": null,
+  "Jugadora": "Adriana Iturbide",
+  "Club": "Guadalajara",
+  "Goles": "8",
+  "Min.": "1207",
+  "Frec.": "150.88 min."
+},
+{
+  "_id": {
+    "$oid": "6669426dea61978b9cad5838"
+  },
+  "ID": "914",
+  "Posición": null,
+  "Jugadora": "Yashira Barrientos",
+  "Club": "LeÃ³n",
+  "Goles": "8",
+  "Min.": "1277",
+  "Frec.": "159.63 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fec"
+  },
+  "ID": "901",
+  "Posición": null,
+  "Jugadora": "Maricarmen Reyes",
+  "Club": "Tigres UANL",
+  "Goles": "15",
+  "Min.": "1189",
+  "Frec.": "79.27 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fed"
+  },
+  "ID": "902",
+  "Posición": null,
+  "Jugadora": "Alicia Cervantes",
+  "Club": "Guadalajara",
+  "Goles": "15",
+  "Min.": "1398",
+  "Frec.": "93.2 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fee"
+  },
+  "ID": "903",
+  "Posición": null,
+  "Jugadora": "Charlyn Corral",
+  "Club": "Pachuca",
+  "Goles": "13",
+  "Min.": "1440",
+  "Frec.": "110.77 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58fef"
+  },
+  "ID": "904",
+  "Posición": null,
+  "Jugadora": "Kiana Palacios",
+  "Club": "AmÃ©rica",
+  "Goles": "11",
+  "Min.": "858",
+  "Frec.": "78 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff0"
+  },
+  "ID": "905",
+  "Posición": null,
+  "Jugadora": "Lizbeth Ovalle",
+  "Club": "Tigres UANL",
+  "Goles": "11",
+  "Min.": "1186",
+  "Frec.": "107.82 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff1"
+  },
+  "ID": "906",
+  "Posición": null,
+  "Jugadora": "Christina Burkenroad",
+  "Club": "Monterrey",
+  "Goles": "10",
+  "Min.": "982",
+  "Frec.": "98.2 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff2"
+  },
+  "ID": "907",
+  "Posición": null,
+  "Jugadora": "Katty MartÃ­nez",
+  "Club": "AmÃ©rica",
+  "Goles": "10",
+  "Min.": "1082",
+  "Frec.": "108.2 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff3"
+  },
+  "ID": "908",
+  "Posición": null,
+  "Jugadora": "Andrea Pereira",
+  "Club": "AmÃ©rica",
+  "Goles": "10",
+  "Min.": "1098",
+  "Frec.": "109.8 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff4"
+  },
+  "ID": "909",
+  "Posición": null,
+  "Jugadora": "DesirÃ©e MonsivÃ¡is",
+  "Club": "Pumas UNAM",
+  "Goles": "9",
+  "Min.": "931",
+  "Frec.": "103.44 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff5"
+  },
+  "ID": "910",
+  "Posición": null,
+  "Jugadora": "AÃ­sha SolÃ³rzano",
+  "Club": "Puebla",
+  "Goles": "8",
+  "Min.": "927",
+  "Frec.": "115.88 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff6"
+  },
+  "ID": "911",
+  "Posición": null,
+  "Jugadora": "Ã‰rica Gomes",
+  "Club": "Cruz Azul",
+  "Goles": "8",
+  "Min.": "1020",
+  "Frec.": "127.5 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff7"
+  },
+  "ID": "912",
+  "Posición": null,
+  "Jugadora": "Jasmine CasÃ¡rez",
+  "Club": "JuÃ¡rez",
+  "Goles": "8",
+  "Min.": "1025",
+  "Frec.": "128.13 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff8"
+  },
+  "ID": "913",
+  "Posición": null,
+  "Jugadora": "Adriana Iturbide",
+  "Club": "Guadalajara",
+  "Goles": "8",
+  "Min.": "1207",
+  "Frec.": "150.88 min."
+},
+{
+  "_id": {
+    "$oid": "66694270b4700a4537e58ff9"
+  },
+  "ID": "914",
+  "Posición": null,
+  "Jugadora": "Yashira Barrientos",
+  "Club": "LeÃ³n",
+  "Goles": "8",
+  "Min.": "1277",
+  "Frec.": "159.63 min."
+}]
