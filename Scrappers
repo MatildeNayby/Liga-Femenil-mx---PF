@@ -58,7 +58,7 @@ def scrapjornada(url, jornada, df):
     gf.append(columnas[6].text.strip())
     gc.append(columnas[7].text.strip())  
     dg.append(columnas[8].text.strip())
-    pts.append(int(columnas.[9].text.strip()))
+    pts.append(int(columnas[9].text.strip()))
 
   data = {
     "Posicion": positions,
