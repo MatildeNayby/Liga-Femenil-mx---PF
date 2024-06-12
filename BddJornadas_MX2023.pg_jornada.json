@@ -1,0 +1,2754 @@
+[{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813efe"
+  },
+  "Id": "201",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813eff"
+  },
+  "Id": "202",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f00"
+  },
+  "Id": "203",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f01"
+  },
+  "Id": "204",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f02"
+  },
+  "Id": "205",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f03"
+  },
+  "Id": "206",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f04"
+  },
+  "Id": "207",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f05"
+  },
+  "Id": "208",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f06"
+  },
+  "Id": "209",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f07"
+  },
+  "Id": "210",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f08"
+  },
+  "Id": "211",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f09"
+  },
+  "Id": "212",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0a"
+  },
+  "Id": "213",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0b"
+  },
+  "Id": "214",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0c"
+  },
+  "Id": "215",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0d"
+  },
+  "Id": "216",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0e"
+  },
+  "Id": "217",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f0f"
+  },
+  "Id": "218",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "1"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f10"
+  },
+  "Id": "219",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f11"
+  },
+  "Id": "220",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f12"
+  },
+  "Id": "221",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f13"
+  },
+  "Id": "222",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f14"
+  },
+  "Id": "223",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f15"
+  },
+  "Id": "224",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f16"
+  },
+  "Id": "225",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f17"
+  },
+  "Id": "226",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f18"
+  },
+  "Id": "227",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f19"
+  },
+  "Id": "228",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1a"
+  },
+  "Id": "229",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1b"
+  },
+  "Id": "230",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1c"
+  },
+  "Id": "231",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1d"
+  },
+  "Id": "232",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1e"
+  },
+  "Id": "233",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f1f"
+  },
+  "Id": "234",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f20"
+  },
+  "Id": "235",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f21"
+  },
+  "Id": "236",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "2"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f22"
+  },
+  "Id": "237",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f23"
+  },
+  "Id": "238",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f24"
+  },
+  "Id": "239",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f25"
+  },
+  "Id": "240",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f26"
+  },
+  "Id": "241",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f27"
+  },
+  "Id": "242",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f28"
+  },
+  "Id": "243",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f29"
+  },
+  "Id": "244",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2a"
+  },
+  "Id": "245",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2b"
+  },
+  "Id": "246",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2c"
+  },
+  "Id": "247",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2d"
+  },
+  "Id": "248",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2e"
+  },
+  "Id": "249",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f2f"
+  },
+  "Id": "250",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f30"
+  },
+  "Id": "251",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f31"
+  },
+  "Id": "252",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f32"
+  },
+  "Id": "253",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f33"
+  },
+  "Id": "254",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "3"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f34"
+  },
+  "Id": "255",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f35"
+  },
+  "Id": "256",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f36"
+  },
+  "Id": "257",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f37"
+  },
+  "Id": "258",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f38"
+  },
+  "Id": "259",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f39"
+  },
+  "Id": "260",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3a"
+  },
+  "Id": "261",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3b"
+  },
+  "Id": "262",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3c"
+  },
+  "Id": "263",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3d"
+  },
+  "Id": "264",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3e"
+  },
+  "Id": "265",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f3f"
+  },
+  "Id": "266",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f40"
+  },
+  "Id": "267",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f41"
+  },
+  "Id": "268",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f42"
+  },
+  "Id": "269",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f43"
+  },
+  "Id": "270",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f44"
+  },
+  "Id": "271",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f45"
+  },
+  "Id": "272",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "4"
+},
+{
+  "_id": {
+    "$oid": "6667cad2e29598f92e813f46"
+  },
+  "Id": "273",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f47"
+  },
+  "Id": "274",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f48"
+  },
+  "Id": "275",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f49"
+  },
+  "Id": "276",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4a"
+  },
+  "Id": "277",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4b"
+  },
+  "Id": "278",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4c"
+  },
+  "Id": "279",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4d"
+  },
+  "Id": "280",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4e"
+  },
+  "Id": "281",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f4f"
+  },
+  "Id": "282",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f50"
+  },
+  "Id": "283",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f51"
+  },
+  "Id": "284",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f52"
+  },
+  "Id": "285",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f53"
+  },
+  "Id": "286",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f54"
+  },
+  "Id": "287",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f55"
+  },
+  "Id": "288",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f56"
+  },
+  "Id": "289",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f57"
+  },
+  "Id": "290",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "5"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f58"
+  },
+  "Id": "291",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f59"
+  },
+  "Id": "292",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5a"
+  },
+  "Id": "293",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5b"
+  },
+  "Id": "294",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5c"
+  },
+  "Id": "295",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5d"
+  },
+  "Id": "296",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5e"
+  },
+  "Id": "297",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f5f"
+  },
+  "Id": "298",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f60"
+  },
+  "Id": "299",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f61"
+  },
+  "Id": "300",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f62"
+  },
+  "Id": "301",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f63"
+  },
+  "Id": "302",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f64"
+  },
+  "Id": "303",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f65"
+  },
+  "Id": "304",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f66"
+  },
+  "Id": "305",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f67"
+  },
+  "Id": "306",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f68"
+  },
+  "Id": "307",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f69"
+  },
+  "Id": "308",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "6"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6a"
+  },
+  "Id": "309",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6b"
+  },
+  "Id": "310",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6c"
+  },
+  "Id": "311",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6d"
+  },
+  "Id": "312",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6e"
+  },
+  "Id": "313",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f6f"
+  },
+  "Id": "314",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f70"
+  },
+  "Id": "315",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f71"
+  },
+  "Id": "316",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f72"
+  },
+  "Id": "317",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f73"
+  },
+  "Id": "318",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f74"
+  },
+  "Id": "319",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f75"
+  },
+  "Id": "320",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "-3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f76"
+  },
+  "Id": "321",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f77"
+  },
+  "Id": "322",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f78"
+  },
+  "Id": "323",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f79"
+  },
+  "Id": "324",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7a"
+  },
+  "Id": "325",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7b"
+  },
+  "Id": "326",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "7"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7c"
+  },
+  "Id": "327",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7d"
+  },
+  "Id": "328",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7e"
+  },
+  "Id": "329",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f7f"
+  },
+  "Id": "330",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f80"
+  },
+  "Id": "331",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f81"
+  },
+  "Id": "332",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f82"
+  },
+  "Id": "333",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f83"
+  },
+  "Id": "334",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f84"
+  },
+  "Id": "335",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f85"
+  },
+  "Id": "336",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f86"
+  },
+  "Id": "337",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f87"
+  },
+  "Id": "338",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "4",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f88"
+  },
+  "Id": "339",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f89"
+  },
+  "Id": "340",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8a"
+  },
+  "Id": "341",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8b"
+  },
+  "Id": "342",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8c"
+  },
+  "Id": "343",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8d"
+  },
+  "Id": "344",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "8"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8e"
+  },
+  "Id": "345",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f8f"
+  },
+  "Id": "346",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f90"
+  },
+  "Id": "347",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f91"
+  },
+  "Id": "348",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f92"
+  },
+  "Id": "349",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f93"
+  },
+  "Id": "350",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f94"
+  },
+  "Id": "351",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f95"
+  },
+  "Id": "352",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f96"
+  },
+  "Id": "353",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f97"
+  },
+  "Id": "354",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f98"
+  },
+  "Id": "355",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f99"
+  },
+  "Id": "356",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9a"
+  },
+  "Id": "357",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9b"
+  },
+  "Id": "358",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9c"
+  },
+  "Id": "359",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "4",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9d"
+  },
+  "Id": "360",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9e"
+  },
+  "Id": "361",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813f9f"
+  },
+  "Id": "362",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "9"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa0"
+  },
+  "Id": "363",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa1"
+  },
+  "Id": "364",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa2"
+  },
+  "Id": "365",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa3"
+  },
+  "Id": "366",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa4"
+  },
+  "Id": "367",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa5"
+  },
+  "Id": "368",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa6"
+  },
+  "Id": "369",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa7"
+  },
+  "Id": "370",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa8"
+  },
+  "Id": "371",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fa9"
+  },
+  "Id": "372",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813faa"
+  },
+  "Id": "373",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fab"
+  },
+  "Id": "374",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fac"
+  },
+  "Id": "375",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fad"
+  },
+  "Id": "376",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fae"
+  },
+  "Id": "377",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813faf"
+  },
+  "Id": "378",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb0"
+  },
+  "Id": "379",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb1"
+  },
+  "Id": "380",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "10"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb2"
+  },
+  "Id": "381",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb3"
+  },
+  "Id": "382",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb4"
+  },
+  "Id": "383",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb5"
+  },
+  "Id": "384",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb6"
+  },
+  "Id": "385",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb7"
+  },
+  "Id": "386",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb8"
+  },
+  "Id": "387",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fb9"
+  },
+  "Id": "388",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fba"
+  },
+  "Id": "389",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fbb"
+  },
+  "Id": "390",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fbc"
+  },
+  "Id": "391",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fbd"
+  },
+  "Id": "392",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fbe"
+  },
+  "Id": "393",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fbf"
+  },
+  "Id": "394",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc0"
+  },
+  "Id": "395",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc1"
+  },
+  "Id": "396",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc2"
+  },
+  "Id": "397",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc3"
+  },
+  "Id": "398",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "11"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc4"
+  },
+  "Id": "399",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc5"
+  },
+  "Id": "400",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc6"
+  },
+  "Id": "401",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc7"
+  },
+  "Id": "402",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc8"
+  },
+  "Id": "403",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fc9"
+  },
+  "Id": "404",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fca"
+  },
+  "Id": "405",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fcb"
+  },
+  "Id": "406",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "4",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fcc"
+  },
+  "Id": "407",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fcd"
+  },
+  "Id": "408",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "4",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fce"
+  },
+  "Id": "409",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fcf"
+  },
+  "Id": "410",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd0"
+  },
+  "Id": "411",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd1"
+  },
+  "Id": "412",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd2"
+  },
+  "Id": "413",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd3"
+  },
+  "Id": "414",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd4"
+  },
+  "Id": "415",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd5"
+  },
+  "Id": "416",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "12"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd6"
+  },
+  "Id": "417",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd7"
+  },
+  "Id": "418",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd8"
+  },
+  "Id": "419",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fd9"
+  },
+  "Id": "420",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fda"
+  },
+  "Id": "421",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fdb"
+  },
+  "Id": "422",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fdc"
+  },
+  "Id": "423",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fdd"
+  },
+  "Id": "424",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fde"
+  },
+  "Id": "425",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fdf"
+  },
+  "Id": "426",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe0"
+  },
+  "Id": "427",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe1"
+  },
+  "Id": "428",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe2"
+  },
+  "Id": "429",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe3"
+  },
+  "Id": "430",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe4"
+  },
+  "Id": "431",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe5"
+  },
+  "Id": "432",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe6"
+  },
+  "Id": "433",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe7"
+  },
+  "Id": "434",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "13"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe8"
+  },
+  "Id": "435",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fe9"
+  },
+  "Id": "436",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fea"
+  },
+  "Id": "437",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813feb"
+  },
+  "Id": "438",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fec"
+  },
+  "Id": "439",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fed"
+  },
+  "Id": "440",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fee"
+  },
+  "Id": "441",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fef"
+  },
+  "Id": "442",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff0"
+  },
+  "Id": "443",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff1"
+  },
+  "Id": "444",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff2"
+  },
+  "Id": "445",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff3"
+  },
+  "Id": "446",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff4"
+  },
+  "Id": "447",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff5"
+  },
+  "Id": "448",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff6"
+  },
+  "Id": "449",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff7"
+  },
+  "Id": "450",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff8"
+  },
+  "Id": "451",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ff9"
+  },
+  "Id": "452",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "14"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ffa"
+  },
+  "Id": "453",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ffb"
+  },
+  "Id": "454",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ffc"
+  },
+  "Id": "455",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ffd"
+  },
+  "Id": "456",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813ffe"
+  },
+  "Id": "457",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e813fff"
+  },
+  "Id": "458",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814000"
+  },
+  "Id": "459",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814001"
+  },
+  "Id": "460",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814002"
+  },
+  "Id": "461",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814003"
+  },
+  "Id": "462",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814004"
+  },
+  "Id": "463",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814005"
+  },
+  "Id": "464",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814006"
+  },
+  "Id": "465",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814007"
+  },
+  "Id": "466",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814008"
+  },
+  "Id": "467",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814009"
+  },
+  "Id": "468",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400a"
+  },
+  "Id": "469",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400b"
+  },
+  "Id": "470",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "15"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400c"
+  },
+  "Id": "471",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400d"
+  },
+  "Id": "472",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400e"
+  },
+  "Id": "473",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81400f"
+  },
+  "Id": "474",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814010"
+  },
+  "Id": "475",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814011"
+  },
+  "Id": "476",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814012"
+  },
+  "Id": "477",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814013"
+  },
+  "Id": "478",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814014"
+  },
+  "Id": "479",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814015"
+  },
+  "Id": "480",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814016"
+  },
+  "Id": "481",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814017"
+  },
+  "Id": "482",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814018"
+  },
+  "Id": "483",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814019"
+  },
+  "Id": "484",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401a"
+  },
+  "Id": "485",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401b"
+  },
+  "Id": "486",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401c"
+  },
+  "Id": "487",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401d"
+  },
+  "Id": "488",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "16"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401e"
+  },
+  "Id": "489",
+  "Id_Equipo": "Tigres Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81401f"
+  },
+  "Id": "490",
+  "Id_Equipo": "America Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814020"
+  },
+  "Id": "491",
+  "Id_Equipo": "Chivas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814021"
+  },
+  "Id": "492",
+  "Id_Equipo": "Monterrey Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814022"
+  },
+  "Id": "493",
+  "Id_Equipo": "Tijuana Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814023"
+  },
+  "Id": "494",
+  "Id_Equipo": "Toluca Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814024"
+  },
+  "Id": "495",
+  "Id_Equipo": "Pachuca Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814025"
+  },
+  "Id": "496",
+  "Id_Equipo": "Pumas Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814026"
+  },
+  "Id": "497",
+  "Id_Equipo": "FC JuÃ¡rez Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814027"
+  },
+  "Id": "498",
+  "Id_Equipo": "LeÃ³n Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814028"
+  },
+  "Id": "499",
+  "Id_Equipo": "Cruz Azul Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e814029"
+  },
+  "Id": "500",
+  "Id_Equipo": "QuerÃ©taro Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402a"
+  },
+  "Id": "501",
+  "Id_Equipo": "Atlas Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402b"
+  },
+  "Id": "502",
+  "Id_Equipo": "Puebla Fem",
+  "PTS_Ganados": "3",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402c"
+  },
+  "Id": "503",
+  "Id_Equipo": "AtlÃ©tico de San Luis Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402d"
+  },
+  "Id": "504",
+  "Id_Equipo": "Necaxa Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402e"
+  },
+  "Id": "505",
+  "Id_Equipo": "Santos Fem",
+  "PTS_Ganados": "0",
+  "Jornada": "17"
+},
+{
+  "_id": {
+    "$oid": "6667cad3e29598f92e81402f"
+  },
+  "Id": "506",
+  "Id_Equipo": "MazatlÃ¡n Fem",
+  "PTS_Ganados": "1",
+  "Jornada": "17"
+}]
