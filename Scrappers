@@ -2,13 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-def scrape(url, jornada, df):
+def juegoLimpio(soup):
+  tabla= soup.find("table", {"style": "background: #006699; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"})
+  filas= tabla.find_all("tr")
+  encabezados= [th.get_text(strip=True) for th in filas[0].find_all("th")]
+  datos=[]
+  for fila in filas[1:]:
+    celdas= fila.fins_all(["th", "td"])
+    datos.append([celda.get_text(strip=True) for celda in celdas])
+  df= pd.DataFrame(datos, columns= encabezados)
+  df.insert(0, "ID", range(801, 801 + len(df)))
+  return df
+
+def goleadoras(soup):
+  tabla= soup.find("table", {"style": "background: #E6EEE6; border: 1px #aaa solid; border-collapse: collapse; font-size: 85%;"})
+  filas= tabla.find_all("tr")
+  encabezados= [th.get_text(strip=True) for th in filas [0].find_all("th")]
+  datos=[]
+  for fila in filas[1:]:
+    celdas= fila.find_all(["th","td"])
+    datos.append([celda,get_text(strip=True) for celda un celdas])
+  df= pd.DataFrame(datos, columns= encabezados)
+  df.insert(0, "ID", range(901, 901 + len(df)))
+  return df
+
+def scrapjornada(url, jornada, df):
   #Obtener contenido de la pag
-  response = requests.get(url)
-  soup = BeautifulSoup(response.content, "html.parser")
+  link = requests.get(url)
+  soup = BeautifulSoup(link.content, "html.parser")
 
   #Encontrar tabla
-  table = soup.find("table", {"class": "ctr-stadistics-header__table"})
+  tabla = soup.find("table", {"class": "ctr-stadistics-header__table"})
 
   #Listas para guardar los datos
   positions= []
@@ -23,18 +47,18 @@ def scrape(url, jornada, df):
   pts = []
 
   #Buscar entre las filas
-  for row in table.find_all("tr")[1:]:
-    cells = row.find_all("td")
-    positions.append(cells[0].text.strip())
-    teams.append(cells[1].text.strip())
-    jj.append(cells[2].text.strip())
-    jg.append(cells.[3].text.strip())
-    je.append(cells.[4].text.strip())
-    jp.append(cells.[5].text.strip())
-    gf.append(cells.[6].text.strip())
-    gc.append(cells.[7].text.strip())  
-    dg.append(cells.[8].text.strip())
-    pts.append(cells.[9].text.strip())
+  for row in tabla.find_all("tr")[1:]:
+    columnas = row.find_all("td")
+    positions.append(columnas[0].text.strip())
+    teams.append(columnas[1].text.strip())
+    jj.append(columnas[2].text.strip())
+    jg.append(columnas.[3].text.strip())
+    je.append(columnas.[4].text.strip())
+    jp.append(columnas.[5].text.strip())
+    gf.append(columnas.[6].text.strip())
+    gc.append(columnas.[7].text.strip())  
+    dg.append(columnas.[8].text.strip())
+    pts.append(int(columnas.[9].text.strip()))
 
   data = {
     "Posicion": positions,
@@ -71,33 +95,53 @@ urls = [
   ("https://www.mediotiempo.com/futbol/liga-mx-femenil/tabla-general/5s134eik-2023/regular/17", "17"),
 ]
 
-equipos= ["Tigres", "América", "Chivas"]
-
-#Dataframe para todas las jornadas
-all_data= pd.DataFrame()
-
+losdatos= pd.DataFrame()
 for url, jornada in urls:
-  jornada_data = pd.DataFrame()
-  for equipo in equipos:
-    equipo_df, jornada_df = scrape(url, jornada, equipo)
-    jornada_data= pd.concat([jornada_data, equipo_df, ignore_index=True)
-    all_data= pd.concat([all_data, jornada:df, ignore_index=True])
+  losdatos = scrapjornada(url, jornada, losdatos)
+losdatos["PTS"] = losdatos["PTS"].astype(int)
+losdatos["PTS_Anterior"] = losdatos.groupby("Equipo")["PTS"].shift(1, fill_value=0)
+losdatos["PTS_Ganados"] = losdatos["PTS"] - losdatos["PTS_Anterior"]
+losdatos= losdatos.drop(columns=["PTS_Anterior"])
+losdatos["Id_Jornadas"] = range(1, len(losdatos) + 1)
+losdatos.to_csv("Jornadas_2023.csv", index=False)
+print("Se han guardado todas las jornadas en 'Jornadas_2023.csv'")
+dfJornadas= pd.read_csv("Jornadas_2023.csv")
+print(dfJornadas)
 
-  #guaradar el df en csv
-  jornada_data.to_csv(f"Jornada_{jornada}_2023.csv", index= False)
-  print(f"Se han guardado los datos de la jornada {jornada}, en "Jornada_{jornada}_2023.csv" con {len(jornada_data)} filas")
+pg_jornada_data= losdatos[["Equipo", "PTS_Ganados", Jornada"]].copy()
+pg_jornada_data.rename(columns= {"Equipo": "Id_Equipo"}, inplace=True)
+pg_jornada_data["Id"] = range (201, 201 + len(pg_jornada:data))
+pg_jornada_data.to_csv("PG_Jornada.csv", index=False)
+print("Se han guardado los puntos ganados por jornada en 'PG_Jornada.csv'")
+print(pg_jornada_data)
+dfPG= pd.read_csv("PG_Jornada.csv")
+print(dfPG)
 
-#Guardar el df de todas las jornadas en uno solo csv
-all_data.to_csv("Jornadas_2023.csv", index=False)
-print(f"Se han guardado todas las jornadas en "Jornadas_2023.csv" con {len(all_data)} filas"
+progreso_data= losdatos.groupby(["Equipo", "Jornada"]).agg({
+  "JJ": "max",
+  "JG": "max",
+  "JE": "max",
+  "JP": "max"
+}).reset_index()
 
-#filtar datos para desempeño de Tigres
-tigres_data= all_data["Equipo"] == "Tigres"]
-tigres_data.to_csv("Desempeño_Tigres.csv", index=False)
-print(f"Se ha guardado el desempeño de Tigres en "Desempeño_Tigres.csv" con {len(tigres_data)} filas")
+progreso_data.columns=["Equipo", "Jornada", "Juegos Jugados", "Juegos Ganados", "Juegos Empatados", "Juegos Perdidos"]
+progreso_data["Id"] = range(301, 301 + len(progreso_data))
+progreso_data.to_csv("Progreso_porJornada.csv", index= False)
+print("Se ha guardado la tabla de progreso de puntos por jornada 'Progreso_porJornada.csv'")
+dfProg= pd.read_csv("Progreso_porJornada.csv")
+print(dfProg)
 
-#Filtrar datos para el desempeño de Tigres, América y Chivas
-tac_data= all_data[all_data["Equipo"].isin(["Tigres", "América", "Chivas"])]
-tac_data.to_csv("Desempeño_TAC.csv", index=False)
-
-print(f"Se ha guardado el desempeño de Tigres, America y Chivas en "Desempeño_TAC.csv" con {len(tac_data)} filas")
+wk_link= "https://es.wikipedia.org/wiki/Torneo_Apertura_2023_(Liga_MX_Femenil)"
+link2= requests.get(wk_link)
+soup= BeautifulSoup(link2.content, "html.parser")
+clas_JuegoLimpio= juegoLimpio(soup)
+print("Tabla de Clasificación de Juego Limpio: ")
+print(clas_JuegoLimpio)
+clas_JuegoLimpio.to_csv("clasificacion_juego_limpio.csv", index=False)
+dfjuglimp= pd.read_csv("clasificacion_juego_limpio.csv")
+print(dfjuglimp)
+topgoleadoras=goleadorasdef(soup)
+print("\nTabla de Máximas Goleadoras: ")
+topgoleadoras.to_csv("maximas_goleadoras.csv", index=False)
+dfgoleadoras= pd.read_csv("maximas_goleadoras.csv")
+print(dfgoleadoras)
